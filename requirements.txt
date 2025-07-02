@@ -7,5 +7,6 @@ scikit-learn
 lightgbm
 python-multipart
 requests
-httpxpydantic
+httpx
+pydantic
 # Add any other packages you use
