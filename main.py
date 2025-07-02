@@ -7,6 +7,19 @@ import datetime
 
 app = FastAPI()
 
+origins = [
+    "https://agrivision-ai-based-crop-recommender.vercel.app",  # your Vercel frontend
+    "http://localhost:5173",  # for local dev, if needed
+]
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,  # only allow your frontend
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
 # Load soil lookup and model at startup
 soil_df = pd.read_csv("data/processed/soil_lookup.csv")
 weather_df = pd.read_csv("data/processed/weather_lookup.csv")
@@ -252,11 +265,3 @@ def debug_crop_mapping():
         "sample_mapping": dict(list(CROP_LABEL_MAPPING.items())[:10]),
         "all_crops": list(CROP_LABEL_MAPPING.values())
     }
-
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=["*"],
-    allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
-)
