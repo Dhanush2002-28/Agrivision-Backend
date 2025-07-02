@@ -4,4 +4,8 @@ pandas
 numpy
 joblib
 scikit-learn
+lightgbm
+python-multipart
+requests
+httpxpydantic
 # Add any other packages you use
