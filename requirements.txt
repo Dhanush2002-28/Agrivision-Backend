@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pandas
+numpy
+joblib
+scikit-learn
+# Add any other packages you use

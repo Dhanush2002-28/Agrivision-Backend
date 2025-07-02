@@ -1,0 +1,886 @@
+State,District,Block,Pincode,Total Nitrogen_x,Total Phosphorous_x,Total Potassium_x,Total pH_x
+goa,north goa,satari,"403506, 403530",65.552,42.505,54.11,6.4408
+goa,north goa,tiswadi,"403001, 403002, 403006, 403108, 403206, 403403",30.566,59.699,34.564,6.2857
+goa,north goa,bardez,"403101, 403102, 403107, 403109, 403110, 403114, 403116, 403501, 403502, 403507, 403508, 403509, 403510, 403511, 403513, 403515, 403516, 403517, 403518, 403519, 403521, 403523, 403524, 403526",59.909,38.336,42.722,6.2997
+goa,north goa,pernem,"403512, 403524, 403527",70.787,63.848,59.774,6.3782
+goa,north goa,bicholim,"403504, 403505, 403529",47.183,57.44,52.397,6.169
+goa,south goa,salcete,"403601, 403602, 403604, 403707, 403708, 403709, 403710, 403711, 403712, 403713, 403714, 403715, 403716, 403717, 403718, 403719, 403720, 403721, 403722, 403723, 403724, 403725, 403726, 403728, 403729, 403731",43.739,59.399,46.584,6.2078
+goa,south goa,quepem,"403705, 403706",47.621,34.898,54.502,6.4632
+goa,south goa,ponda,"403103, 403107, 403401, 403404, 403406",49.995,21.236,58.85,6.053
+goa,south goa,dharbandora,403406,47.141,28.556,47.982,6.4823
+goa,south goa,canacona,"403702, 403703, 403728",50.0,0.0,50.0,7.0
+gujarat,ahmedabad,daskroi,"382210, 382213, 382225, 382230, 382330, 382405, 382425, 382426, 382427, 382430, 382435, 382445",22.124,65.397,65.016,7.2838
+gujarat,ahmedabad,viramgam,"382110, 382150",20.0,80.0,79.979,7.0
+gujarat,ahmedabad,detroj rampura,"382120, 382140",20.051,80.0,79.922,7.0
+gujarat,ahmedabad,mandal,382130,20.0,80.0,80.0,7.0
+gujarat,ahmedabad,sanand,"382110, 382170",21.488,70.724,75.845,7.0
+gujarat,ahmedabad,bavla,"382220, 382230",21.392,55.427,74.831,7.0068
+gujarat,ahmedabad,dhandhuka,"382250, 382460",21.488,55.982,76.313,6.9979
+gujarat,ahmedabad,dholera,382455,21.695,52.769,79.214,6.9972
+gujarat,ahmedabad,dholka,"382225, 382240, 382265",28.892,74.333,75.773,6.9981
+gujarat,amreli,amreli,"365601, 365610, 365630",20.0,79.906,79.945,7.0389
+gujarat,amreli,lathi,"365430, 365435",20.0,79.973,75.128,7.0057
+gujarat,amreli,babra,365421,20.0,79.952,76.625,7.0
+gujarat,amreli,lilia,365535,20.0,80.0,76.217,7.0
+gujarat,amreli,jafrabad,"365540, 365545",20.0,80.0,75.713,7.117
+gujarat,amreli,kunkavav -vadia,365480,27.176,62.318,44.477,7.0762
+gujarat,amreli,bagasara,365440,26.309,53.573,36.665,7.0
+gujarat,amreli,dhari,"365630, 365640",30.734,59.378,28.187,7.0
+gujarat,amreli,rajula,"365555, 365560",20.0,80.0,79.841,7.2619
+gujarat,amreli,khambha,365650,20.027,80.0,74.851,7.0357
+gujarat,amreli,saverkundla,"364515, 364522",20.0,79.982,76.421,7.0132
+gujarat,anand,anklav,"388510, 388520",28.223,80.0,74.0,7.1125
+gujarat,anand,sojitra,387240,26.663,80.0,74.039,7.0039
+gujarat,anand,anand,"388001, 388110, 388120, 388130",22.229,80.0,77.976,7.0153
+gujarat,anand,borsad,"388540, 388550",21.542,80.0,74.105,7.1953
+gujarat,anand,umreth,388220,22.619,80.0,72.077,7.0348
+gujarat,anand,petlad,"388450, 388460",34.877,80.0,72.698,7.2802
+gujarat,anand,tarapur,388180,20.021,78.02,71.387,7.1143
+gujarat,anand,khambhat,"388620, 388630, 388640",20.0,80.0,73.985,7.0858
+gujarat,arvalli,bayad,"383325, 383330",21.32,72.05,67.694,7.0399
+gujarat,arvalli,modasa,"383315, 383320",21.572,75.785,68.358,7.0783
+gujarat,arvalli,malpur,383345,20.531,76.019,67.469,7.0381
+gujarat,arvalli,meghraj,383350,21.227,74.93,64.703,7.0279
+gujarat,arvalli,bhiloda,"383245, 383250",20.855,67.133,56.792,7.0333
+gujarat,arvalli,dhansura,383310,20.0,77.537,69.668,7.0315
+gujarat,banas kantha,tharad,"385565, 385566",21.407,76.91,69.527,7.4726
+gujarat,banas kantha,lakhani,385535,20.0,76.769,69.053,7.2412
+gujarat,banas kantha,amirgadh,385130,20.309,77.591,49.469,7.002
+gujarat,banas kantha,dhanera,385310,21.197,79.958,68.186,7.0641
+gujarat,banas kantha,kankrej,"385555, 385560",20.783,79.814,74.53,7.006
+gujarat,banas kantha,dantivada,385505,20.0,77.696,71.648,7.0308
+gujarat,banas kantha,deesa,"385535, 385540",20.114,78.314,70.853,7.006
+gujarat,banas kantha,suigam,385570,20.0,72.422,54.29,7.0021
+gujarat,banas kantha,palanpur,"385001, 385010",20.0,79.895,73.767,7.0157
+gujarat,banas kantha,bhabhar,385320,20.51,58.449,77.444,7.0
+gujarat,banas kantha,vadgam,"385410, 385421",20.0,79.925,74.017,7.2121
+gujarat,banas kantha,danta,385120,20.339,78.422,72.878,7.0006
+gujarat,banas kantha,deodar,385330,20.276,54.836,62.31,6.9986
+gujarat,banas kantha,vav,385575,20.087,70.229,68.777,7.0
+gujarat,bharuch,tharad,,21.407,76.91,69.527,7.4726
+gujarat,bharuch,lakhani,,20.0,76.769,69.053,7.2412
+gujarat,bharuch,amirgadh,,20.309,77.591,49.469,7.002
+gujarat,bharuch,dhanera,,21.197,79.958,68.186,7.0641
+gujarat,bharuch,kankrej,,20.783,79.814,74.53,7.006
+gujarat,bharuch,dantivada,,20.0,77.696,71.648,7.0308
+gujarat,bharuch,deesa,,20.114,78.314,70.853,7.006
+gujarat,bharuch,suigam,,20.0,72.422,54.29,7.0021
+gujarat,bharuch,palanpur,,20.0,79.895,73.767,7.0157
+gujarat,bharuch,bhabhar,,20.51,58.449,77.444,7.0
+gujarat,bharuch,vadgam,,20.0,79.925,74.017,7.2121
+gujarat,bharuch,danta,,20.339,78.422,72.878,7.0006
+gujarat,bharuch,deodar,,20.276,54.836,62.31,6.9986
+gujarat,bharuch,vav,,20.087,70.229,68.777,7.0
+gujarat,bhavnagar,bharuch,,22.994,32.183,72.031,7.003
+gujarat,bhavnagar,amod,,22.907,47.998,55.583,7.0102
+gujarat,bhavnagar,anklesvar,,27.836,32.18,63.03,7.0
+gujarat,bhavnagar,jambusar,,26.735,47.723,65.976,7.0282
+gujarat,bhavnagar,hansot,,21.512,53.231,64.229,7.003
+gujarat,bhavnagar,vagra,,24.761,37.103,52.289,7.0462
+gujarat,bhavnagar,jhagadia,,22.589,32.507,36.479,7.0402
+gujarat,bhavnagar,valia,,23.114,79.163,75.62,7.012
+gujarat,bhavnagar,netrang,,22.445,68.342,46.319,7.0
+gujarat,botad,botad,364710,26.042,50.978,78.74,7.0
+gujarat,botad,gadhada,364750,22.637,47.846,79.193,7.0
+gujarat,botad,barvala,364760,23.75,42.104,79.205,7.0
+gujarat,botad,ranpur,382245,21.554,45.683,78.143,7.0
+gujarat,chhotaudepur,naswadi,391150,35.327,29.909,64.142,7.1383
+gujarat,chhotaudepur,kawant,391170,33.752,51.717,63.365,7.0183
+gujarat,chhotaudepur,jetpur pavi,391160,29.297,56.813,60.377,7.003
+gujarat,chhotaudepur,sankheda,391145,26.684,51.807,73.985,7.0081
+gujarat,chhotaudepur,bodeli,391135,27.404,43.834,57.684,7.0027
+gujarat,chhotaudepur,chhota udepur,391165,34.445,31.37,51.269,7.006
+gujarat,dang,subir,394716,40.016,31.427,51.682,7.0
+gujarat,dang,waghai,394730,44.288,79.985,52.013,7.0015
+gujarat,dang,ahwa,394710,34.136,29.0,41.279,7.0
+gujarat,devbhumi dwarka,kalyanpur,361315,46.25,80.0,67.013,7.1719
+gujarat,devbhumi dwarka,khambhalia,361305,29.567,76.022,48.221,7.0732
+gujarat,devbhumi dwarka,okhamandal,361335,41.114,76.016,51.257,7.0635
+gujarat,devbhumi dwarka,bhanvad,360510,44.267,77.441,52.046,7.0288
+gujarat,dohad,garbada,389155,21.428,76.052,53.489,6.9944
+gujarat,dohad,fatepura,389172,26.117,57.398,59.41,6.998
+gujarat,dohad,sanjeli,389175,22.448,75.458,61.714,7.0
+gujarat,dohad,limkheda,389140,20.0,77.264,55.469,7.0039
+gujarat,dohad,singvad,389146,23.795,76.9,59.561,6.9992
+gujarat,dohad,dahod,389151,38.687,77.297,62.636,7.0
+gujarat,dohad,jhalod,389170,28.937,78.533,60.524,7.0
+gujarat,dohad,dhanpur,389382,22.061,44.234,68.738,7.0018
+gujarat,dohad,devgad bariya,389380,22.967,53.573,74.921,7.0
+gujarat,gandhinagar,gandhinagar,"382010, 382011, 382016, 382021",20.384,79.448,75.931,7.0315
+gujarat,gandhinagar,mansa,382845,20.084,79.733,77.918,7.0183
+gujarat,gandhinagar,kalol,382721,20.063,79.586,78.657,7.0633
+gujarat,gandhinagar,dehgam,382305,20.933,79.496,73.571,7.0
+gujarat,gir somnath,una,362560,38.447,50.87,41.483,7.1695
+gujarat,gir somnath,patan veraval,"362265, 362266",44.588,51.379,45.182,7.0042
+gujarat,gir somnath,girgadhda,362530,33.656,49.163,43.94,7.0057
+gujarat,gir somnath,sutrapada,362275,46.324,52.503,44.132,7.0045
+gujarat,gir somnath,kodinar,362720,29.267,48.641,43.172,7.0018
+gujarat,gir somnath,talala,362150,26.651,47.792,46.499,7.0
+gujarat,jamnagar,jamnagar,"361001, 361006",33.743,74.31,58.874,7.0666
+gujarat,jamnagar,kalavad,361160,31.638,72.869,57.608,7.0119
+gujarat,jamnagar,lalpur,361170,33.859,69.355,61.112,7.036
+gujarat,jamnagar,dhrol,361210,38.312,72.593,57.546,7.0936
+gujarat,jamnagar,jodiya,361250,34.4,72.005,60.614,7.4635
+gujarat,jamnagar,jamjodhpur,360530,33.54,69.753,59.424,7.1509
+gujarat,junagadh,mangrol,362225,21.008,77.761,65.613,7.0
+gujarat,junagadh,mendarda,362260,20.843,70.211,78.784,7.0027
+gujarat,junagadh,junagadh,"362001, 362002",25.052,75.728,70.137,7.0045
+gujarat,junagadh,bhesan,362020,21.353,74.192,63.368,7.0
+gujarat,junagadh,keshod,362220,20.516,74.333,63.26,6.9984
+gujarat,junagadh,vanthali,362205,20.357,73.082,62.849,7.0
+gujarat,junagadh,visavadar,362130,22.535,70.001,78.965,7.0
+gujarat,junagadh,malia,362245,28.184,62.676,69.353,7.0
+gujarat,junagadh,manavadar,362620,20.213,75.014,65.351,7.0048
+gujarat,kachchh,lakhpat,370601,28.874,71.126,69.641,7.3579
+gujarat,kachchh,mandvi,370465,23.909,66.586,65.21,7.068
+gujarat,kachchh,rapar,370165,20.0,65.552,73.166,7.0
+gujarat,kachchh,gandhidham,370201,21.428,42.68,76.787,7.0
+gujarat,kachchh,anjar,370110,20.384,59.36,77.596,7.0
+gujarat,kachchh,bhachau,370140,20.0,48.593,69.617,7.0
+gujarat,kachchh,mundra,370421,30.437,73.29,78.71,8.1796
+gujarat,kachchh,nakhatrana,370615,27.209,60.681,74.618,7.4622
+gujarat,kachchh,abdasa,370655,24.308,74.432,69.371,7.6375
+gujarat,kachchh,bhuj,"370001, 370020",39.166,59.005,69.445,7.0691
+gujarat,kheda,kapadvanj,387620,20.753,73.907,67.757,7.0912
+gujarat,kheda,mahudha,387335,20.399,73.613,66.83,7.153
+gujarat,kheda,galteshwar,388235,20.183,74.858,70.172,7.0672
+gujarat,kheda,nadiad,"387001, 387002",20.201,73.217,69.368,7.1314
+gujarat,kheda,vaso,387380,20.312,75.752,66.791,7.0858
+gujarat,kheda,matar,387530,22.889,69.752,68.969,7.0075
+gujarat,kheda,mehmedabad,387130,20.027,77.678,69.623,7.033
+gujarat,kheda,thasra,388250,20.15,74.693,68.819,7.2433
+gujarat,kheda,kathlal,387630,20.132,76.112,65.975,7.3474
+gujarat,kheda,kheda,387411,20.0,76.121,68.36,7.2661
+gujarat,mahesana,jotana,384421,20.039,68.855,48.326,8.1142
+gujarat,mahesana,visnagar,384315,20.279,57.846,56.627,7.1619
+gujarat,mahesana,kadi,382715,20.162,52.409,58.988,7.0006
+gujarat,mahesana,kheralu,384325,20.108,68.735,50.841,8.56
+gujarat,mahesana,mahesana,"384001, 384002",20.174,43.371,53.208,6.995
+gujarat,mahesana,satlasna,384330,20.45,55.112,36.422,7.085
+gujarat,mahesana,bechraji,384210,20.036,69.989,49.535,7.2151
+gujarat,mahesana,vijapur,382870,21.437,64.751,54.65,7.0008
+gujarat,mahesana,vadnagar,384355,22.418,58.193,43.241,7.0424
+gujarat,mahesana,unjha,384170,21.257,66.218,54.059,7.0771
+gujarat,mahisagar,virpur,388260,23.654,51.785,70.136,7.0
+gujarat,mahisagar,kadana,389240,20.0,72.643,75.623,7.0
+gujarat,mahisagar,santrampur,389260,25.172,73.241,69.116,7.0
+gujarat,mahisagar,lunawada,389230,21.356,50.719,75.215,7.0
+gujarat,mahisagar,balasinor,388255,22.319,49.823,78.425,7.0
+gujarat,mahisagar,khanpur,389232,22.367,50.0,77.984,6.9994
+gujarat,morbi,halvad,363330,35.459,77.762,62.624,7.2112
+gujarat,morbi,wankaner,363621,29.702,77.552,64.4,7.2277
+gujarat,morbi,morvi,363641,38.432,78.23,64.535,7.0
+gujarat,morbi,maliya,363670,37.175,79.22,63.116,7.0
+gujarat,morbi,tankara,363650,38.468,77.312,63.095,7.0
+gujarat,narmada,nandod,393145,35.05,62.153,64.409,7.0024
+gujarat,narmada,sagbara,393050,34.349,78.278,71.363,7.0
+gujarat,narmada,garudeshwar,393151,34.586,78.329,70.854,7.0078
+gujarat,narmada,tilakwada,391120,33.242,72.86,69.992,7.0
+gujarat,narmada,dediyapada,393040,22.949,24.323,36.947,6.9819
+gujarat,navsari,vansda,396580,27.623,80.0,76.841,7.0
+gujarat,navsari,jalalpore,396421,35.072,80.0,77.225,7.0
+gujarat,navsari,khergam,396040,35.195,79.871,73.505,7.0
+gujarat,navsari,gandevi,396360,33.191,80.0,78.5,7.0
+gujarat,navsari,chikhali,396521,26.018,79.958,71.408,7.0
+gujarat,navsari,navsari,396445,30.659,79.952,78.323,7.0
+gujarat,panch mahals,ghoghamba,389365,32.738,48.089,45.806,7.009
+gujarat,panch mahals,godhra,389001,29.306,62.312,62.295,7.0047
+gujarat,panch mahals,halol,389350,32.822,66.096,61.05,7.0024
+gujarat,panch mahals,jambughoda,389390,36.986,70.722,64.8,7.0
+gujarat,panch mahals,morvahadaf,389115,39.065,67.962,72.749,7.0
+gujarat,panch mahals,shehera,389210,34.67,58.134,57.848,7.0
+gujarat,panch mahals,kalol,389330,32.195,73.52,65.321,7.0
+gujarat,patan,santalpur,385350,20.0,72.112,78.272,7.0
+gujarat,patan,sankheshwar,384246,20.0,71.44,77.579,7.0
+gujarat,patan,saraswati,384285,20.114,73.343,72.755,7.0
+gujarat,patan,chanasma,384220,20.156,64.839,76.199,7.0021
+gujarat,patan,harij,384240,20.237,65.716,79.406,7.003
+gujarat,patan,patan,384265,20.042,65.563,77.168,7.0021
+gujarat,patan,sami,384245,20.0,58.91,78.872,7.0
+gujarat,patan,radhanpur,385340,20.048,65.072,79.829,7.0
+gujarat,patan,sidhpur,384151,20.024,69.017,78.491,7.0
+gujarat,porbandar,ranavav,360550,33.089,76.777,80.0,7.0045
+gujarat,porbandar,porbandar,360575,21.563,57.424,75.563,7.0
+gujarat,porbandar,kutiyana,362650,21.719,36.392,80.0,7.0
+gujarat,rajkot,dhoraji,360410,24.644,78.524,78.047,7.0405
+gujarat,rajkot,gondal,360311,26.267,78.749,75.281,7.066
+gujarat,rajkot,paddhari,360110,20.094,79.952,74.927,7.0297
+gujarat,rajkot,jasdan,360050,20.525,79.715,73.118,7.0405
+gujarat,rajkot,rajkot,"360001, 360002",20.501,79.919,74.18,7.0153
+gujarat,rajkot,vinchhiya,360055,21.455,79.943,73.686,7.0075
+gujarat,rajkot,jamkandorna,360405,35.205,76.133,73.562,6.6165
+gujarat,rajkot,lodhika,360004,20.654,79.931,72.782,7.0114
+gujarat,rajkot,jetpur,360370,20.981,79.97,71.683,7.0072
+gujarat,rajkot,upleta,360490,35.351,78.005,71.912,6.6157
+gujarat,rajkot,kotda sangani,360030,20.315,80.0,71.639,6.9954
+gujarat,sabar kantha,idar,383430,20.0,76.811,58.926,7.0192
+gujarat,sabar kantha,khedbrahma,383255,20.0,74.582,66.057,7.0
+gujarat,sabar kantha,vijaynagar,383460,20.144,76.394,63.698,7.027
+gujarat,sabar kantha,prantij,383205,20.234,77.382,65.0,7.1443
+gujarat,sabar kantha,himatnagar,383001,20.03,76.628,63.389,7.0595
+gujarat,sabar kantha,talod,383215,20.072,77.174,66.281,7.0243
+gujarat,sabar kantha,poshina,383422,20.183,77.939,65.144,7.0333
+gujarat,sabar kantha,vadali,383235,20.114,76.088,65.384,7.0405
+gujarat,surat,palsana,394315,20.0,64.592,62.873,7.2232
+gujarat,surat,mandvi,394160,22.247,75.644,62.645,7.0048
+gujarat,surat,bardoli,394601,20.0,64.559,59.605,7.0303
+gujarat,surat,mahuva,394250,25.7,76.781,72.374,7.0012
+gujarat,surat,chorasi,395003,27.167,77.285,65.131,7.0
+gujarat,surat,kamrej,394180,26.621,77.135,68.387,6.9958
+gujarat,surat,umarpada,394445,20.648,76.418,60.017,7.0
+gujarat,surat,olpad,394540,20.057,76.832,62.472,7.0
+gujarat,surat,mangrol,394410,20.06,77.153,67.802,7.0
+gujarat,surendranagar,sayla,363430,28.148,71.873,72.335,7.0201
+gujarat,surendranagar,thangadh,363530,23.081,69.844,64.733,7.0
+gujarat,surendranagar,chuda,363410,29.366,75.356,79.445,7.0
+gujarat,surendranagar,lakhtar,382775,29.369,73.721,79.901,7.0198
+gujarat,surendranagar,wadhwan,363030,37.442,73.064,70.061,7.0654
+gujarat,surendranagar,muli,363310,48.227,67.406,59.762,7.0291
+gujarat,surendranagar,limbdi,363421,22.43,72.332,63.625,7.0024
+gujarat,surendranagar,chotila,363520,29.376,74.405,71.378,7.0018
+gujarat,surendranagar,dhrangadhra,363310,31.1,75.713,79.913,7.0
+gujarat,surendranagar,dasada,382750,29.405,73.067,67.592,7.0
+gujarat,tapi,nizar,394370,27.404,73.961,72.105,7.0
+gujarat,tapi,kukarmunda,394380,30.155,74.864,77.882,7.0231
+gujarat,tapi,valod,394640,20.99,75.056,67.931,7.0069
+gujarat,tapi,uchchhal,394670,23.807,75.911,71.294,7.0072
+gujarat,tapi,songadh,394670,24.335,77.213,68.404,7.0009
+gujarat,tapi,dolvan,394635,21.269,75.602,68.504,7.0024
+gujarat,tapi,vyara,394650,27.707,76.016,70.961,7.0081
+gujarat,vadodara,waghodia,391760,32.981,58.877,54.884,7.0033
+gujarat,vadodara,shinor,391250,40.412,59.357,42.407,7.0201
+gujarat,vadodara,padra,391440,27.404,67.422,78.848,7.0066
+gujarat,vadodara,desar,391774,21.065,64.484,65.015,7.0
+gujarat,vadodara,vadodara(city and rural),"390001, 390019",24.101,55.4,75.902,7.0027
+gujarat,vadodara,dabhoi,391110,24.491,58.073,48.847,7.0159
+gujarat,vadodara,karjan,391240,20.231,70.949,77.924,7.0495
+gujarat,vadodara,savli,391770,20.018,73.235,22.91,7.0204
+gujarat,valsad,vapi,396191,29.687,76.257,67.214,6.9999
+gujarat,valsad,dharampur,396050,30.461,76.682,60.371,7.0093
+gujarat,valsad,pardi,396125,30.497,75.668,64.568,6.9983
+gujarat,valsad,kaprada,396191,33.398,76.016,64.082,6.999
+gujarat,valsad,umbergaon,396171,31.832,75.605,61.157,6.9928
+gujarat,valsad,valsad,396001,33.971,76.592,64.667,7.0004
+karnataka,bagalakote,badami,"587201, 587203",28.55,58.511,46.25,7.0935
+karnataka,bagalakote,bagalkot,"587101, 587102",31.475,63.545,59.555,7.2815
+karnataka,bagalakote,jamkhandi,"587301, 587311",39.536,54.89,61.614,7.2384
+karnataka,bagalakote,hungund,"587118, 587125",26.387,60.338,59.108,7.3231
+karnataka,bagalakote,ilkal,587125,26.197,63.521,57.248,7.2364
+karnataka,bagalakote,mudhol,587313,33.953,61.05,63.968,7.2338
+karnataka,bagalakote,guledagudda,587203,25.175,63.292,41.432,7.0896
+karnataka,bagalakote,rabakavi banahatti,587314,41.774,62.693,39.692,7.2399
+karnataka,bagalakote,bilagi,587116,47.975,57.579,74.492,7.0179
+karnataka,ballari,kampli,583132,51.213,45.932,49.871,7.9869
+karnataka,ballari,ballari,"583101, 583102",46.565,54.555,46.571,7.7682
+karnataka,ballari,siruguppa,583121,42.628,55.064,52.487,7.5289
+karnataka,ballari,kurugodu,583116,47.471,57.458,59.288,7.146
+karnataka,ballari,sandur,583119,35.228,57.143,35.789,6.8915
+karnataka,bangalore rural,devanhalli,562110,21.249,66.443,49.775,6.6945
+karnataka,bangalore rural,dodballapur,561203,22.478,62.903,53.417,6.8436
+karnataka,bangalore rural,hoskote,562114,22.268,70.451,42.515,6.6952
+karnataka,bangalore rural,nelamangala,562123,22.937,65.528,51.488,6.8565
+karnataka,belagavi,gokak,"591307, 591308",20.105,40.103,70.766,7.6667
+karnataka,belagavi,bylahongal,591102,23.912,46.55,60.128,7.5475
+karnataka,belagavi,mudalagi,591312,20.0,47.534,61.424,8.0068
+karnataka,belagavi,chikodi,591201,20.096,52.719,48.587,7.9807
+karnataka,belagavi,hukeri,591309,20.0,46.631,42.599,7.1094
+karnataka,belagavi,nippani,591237,20.186,58.194,45.062,7.1956
+karnataka,belagavi,athni,591304,21.134,53.189,48.592,7.3489
+karnataka,belagavi,kagawada,591223,20.0,52.941,42.165,7.5021
+karnataka,belagavi,raybag,591317,20.168,46.456,40.565,8.4055
+karnataka,belagavi,khanapur,591302,20.135,44.189,34.056,6.9768
+karnataka,belagavi,belagavi,"590001, 590003",20.027,48.131,34.13,6.8916
+karnataka,belagavi,kittur,591115,22.436,48.269,29.033,7.0297
+karnataka,belagavi,savadathi,591126,27.71,57.59,63.595,8.1166
+karnataka,belagavi,yaragatti,591129,20.099,57.28,30.459,7.9966
+karnataka,belagavi,ramdurg,591123,31.702,59.27,72.347,8.258
+karnataka,bengaluru urban,bengaluru south,"560030, 560034, 560007, 560074, 560083, 560076, 560100, 560108, 560062, 560095",21.437,61.703,50.182,6.9463
+karnataka,bengaluru urban,yelahanka,"560063, 560064",24.599,70.853,53.657,6.9014
+karnataka,bengaluru urban,bengaluru east,"560064, 560036, 560066, 560037",21.89,73.193,50.877,6.9496
+karnataka,bengaluru urban,anekal,562106,20.267,47.679,41.267,6.8403
+karnataka,bengaluru urban,bengaluru north,"560063, 560007",21.071,63.357,49.559,7.0063
+karnataka,bidar,kamalanagara,585417,35.042,47.999,79.678,7.0007
+karnataka,bidar,bidar,"585401, 585402",35.78,48.473,79.772,7.0001
+karnataka,bidar,chittaguppa,585412,35.696,47.455,79.565,7.0
+karnataka,bidar,aurad,585326,36.668,48.26,79.783,7.0053
+karnataka,bidar,bhalki,585328,36.656,47.342,79.346,7.0005
+karnataka,bidar,basavakalyan,585327,37.181,47.831,79.562,7.0003
+karnataka,bidar,humnabad,585330,37.973,47.917,79.283,7.0053
+karnataka,bidar,hulasuru,585416,35.291,47.537,79.691,6.9989
+karnataka,chamarajanagar,chamarajanagar,571313,46.62,71.594,47.379,7.0141
+karnataka,chamarajanagar,gundlupet,571111,54.032,67.403,55.835,7.0074
+karnataka,chamarajanagar,kollegala,571440,60.416,62.841,41.15,7.0
+karnataka,chamarajanagar,yelandur,571441,54.164,65.288,43.886,7.0
+karnataka,chamarajanagar,hanuru,571439,59.762,64.506,38.056,7.0544
+karnataka,chikkaballapura,chintamani,563125,20.029,73.948,57.245,7.0024
+karnataka,chikkaballapura,gauribidanur,561208,20.222,72.947,59.048,6.9997
+karnataka,chikkaballapura,bagepalli,561207,20.021,73.622,57.245,6.9993
+karnataka,chikkaballapura,sidlaghatta,562105,21.272,72.029,57.494,6.9806
+karnataka,chikkaballapura,gudibanda,561209,21.485,71.36,59.822,6.9194
+karnataka,chikkaballapura,chikballapur,562101,21.332,76.508,65.577,6.8964
+karnataka,chikkamagaluru,mudigere,577132,28.457,66.014,64.146,6.7392
+karnataka,chikkamagaluru,koppa,577126,27.902,69.146,34.52,6.6146
+karnataka,chikkamagaluru,chikkamagaluru,577101,24.413,78.152,65.787,6.8805
+karnataka,chikkamagaluru,sringeri,577139,35.09,70.658,34.188,6.3802
+karnataka,chikkamagaluru,kadur,577548,22.523,78.077,55.884,7.0268
+karnataka,chikkamagaluru,tarikere,577228,24.434,65.807,58.934,6.9914
+karnataka,chikkamagaluru,ajjampura,577547,24.497,78.042,70.232,7.0082
+karnataka,chikkamagaluru,narasimharajapura,577134,22.01,71.441,51.266,6.8983
+karnataka,chikkamagaluru,kalasa,577124,28.118,57.98,53.3,6.5229
+karnataka,chitradurga,hosdurga,577527,22.19,74.813,60.834,6.9993
+karnataka,chitradurga,challakere,577522,21.731,71.921,61.972,7.0027
+karnataka,chitradurga,molakalmuru,577535,21.716,69.271,58.334,6.9985
+karnataka,chitradurga,chitradurga,577501,21.554,74.912,59.117,7.0039
+karnataka,chitradurga,holalkere,577526,21.089,75.797,58.232,6.9979
+karnataka,chitradurga,hiriyur,577598,21.521,74.231,59.662,6.9999
+karnataka,dakshina kannada,beltangadi,574214,20.676,54.388,41.309,6.7531
+karnataka,dakshina kannada,sulya,574239,20.246,52.025,28.958,6.7004
+karnataka,dakshina kannada,kadaba,574221,21.656,52.085,30.744,6.7135
+karnataka,dakshina kannada,ullala,575017,23.072,50.827,46.878,6.8341
+karnataka,dakshina kannada,puttur,574201,21.152,66.386,55.676,6.8179
+karnataka,dakshina kannada,mangaluru,"575001, 575002",21.95,52.358,39.08,6.926
+karnataka,dakshina kannada,mudubidare,574227,20.495,58.109,41.01,6.5812
+karnataka,dakshina kannada,bantval,574211,20.105,46.971,46.564,6.635
+karnataka,dakshina kannada,mulki,574154,20.318,58.916,37.871,6.9538
+karnataka,davanagere,davanagere,"577001, 577002",49.157,75.038,70.652,7.0
+karnataka,davanagere,honnali,577217,48.425,75.602,69.512,6.992
+karnataka,davanagere,channagiri,577213,50.078,74.981,71.657,6.9995
+karnataka,davanagere,nyamathi,577223,49.298,75.947,72.35,6.9994
+karnataka,davanagere,harihara,577601,48.96,74.374,70.382,7.0
+karnataka,davanagere,jagalur,577528,47.819,74.266,70.439,7.0
+karnataka,dharwad,annigeri,582201,39.833,50.609,69.971,8.4043
+karnataka,dharwad,kalghatgi,581204,50.159,49.899,63.119,6.9995
+karnataka,dharwad,dharwad,580001,54.062,49.916,67.268,7.3951
+karnataka,dharwad,kundgol,581113,48.062,48.248,60.584,7.4938
+karnataka,dharwad,hubballi,"580020, 580023",49.561,50.615,71.246,7.1203
+karnataka,dharwad,navalgund,582208,49.016,60.074,56.717,8.0362
+karnataka,dharwad,alnavar,581103,51.743,49.943,40.164,7.0
+karnataka,gadag,mundaragi,582118,48.479,53.0,59.849,6.9993
+karnataka,gadag,gadag,582101,49.268,52.646,59.114,7.0045
+karnataka,gadag,ron,582209,49.976,53.486,65.477,7.0078
+karnataka,gadag,shirahatti,582120,48.401,51.631,66.473,7.0008
+karnataka,gadag,gajendragad,582114,49.688,52.139,68.591,6.9992
+karnataka,gadag,laxmeshwar,582116,49.995,53.297,64.889,6.9999
+karnataka,gadag,naragund,582207,49.985,53.879,58.517,7.0015
+karnataka,hassan,arsikere,573103,55.345,77.759,61.445,6.991
+karnataka,hassan,sakaleshpur,573134,64.085,79.892,62.687,6.7204
+karnataka,hassan,alur,573213,62.165,77.819,57.908,6.9073
+karnataka,hassan,channarayapatna,573116,50.604,76.809,56.151,6.9972
+karnataka,hassan,arkalgud,573102,53.405,77.24,56.366,6.9864
+karnataka,hassan,holenarsipur,573211,54.749,77.45,54.426,6.9969
+karnataka,hassan,belur,573115,53.009,77.255,55.982,6.9884
+karnataka,hassan,hassan,573201,53.124,78.5,58.199,6.9921
+karnataka,haveri,ranebennur,581115,35.774,50.552,48.761,7.0128
+karnataka,haveri,rattihalli,581116,40.628,48.191,59.633,7.6346
+karnataka,haveri,haveri,581110,39.26,50.294,51.383,6.9505
+karnataka,haveri,hirekerur,581111,47.336,53.63,56.459,7.0067
+karnataka,haveri,savanur,581118,27.611,49.289,52.122,7.0454
+karnataka,haveri,shiggaon,581205,49.313,51.542,55.934,7.0365
+karnataka,haveri,byadgi,581106,42.674,48.332,50.1,7.0065
+karnataka,haveri,hanagal,581104,45.287,52.973,53.225,6.9731
+karnataka,kalaburagi,afzalpur,585301,28.547,79.781,79.973,7.0006
+karnataka,kalaburagi,kalagi,585322,25.16,79.535,79.892,7.0
+karnataka,kalaburagi,chitapur,585211,24.98,76.202,79.934,7.0007
+karnataka,kalaburagi,shabad,585228,25.754,79.871,79.868,7.0
+karnataka,kalaburagi,chincholi,585307,24.857,79.209,79.793,7.0001
+karnataka,kalaburagi,jevargi,585310,26.714,79.733,80.0,7.0
+karnataka,kalaburagi,aland,585302,25.163,78.458,79.92,7.0009
+karnataka,kalaburagi,kalaburagi,585101,24.236,79.871,79.927,6.9991
+karnataka,kalaburagi,sedam,585222,24.8,74.555,79.376,7.041
+karnataka,kalaburagi,kamalapur,585313,24.11,80.0,80.0,7.0
+karnataka,kalaburagi,yadrami,585325,25.415,79.85,79.898,7.0
+karnataka,kodagu,somvarpet,571236,51.899,64.367,60.989,6.9991
+karnataka,kodagu,ponnampet,571216,49.948,64.424,60.146,6.9977
+karnataka,kodagu,madikeri,571201,47.675,63.729,59.921,6.9753
+karnataka,kodagu,kushalanagar,571234,51.03,64.311,58.17,6.9967
+karnataka,kodagu,virajpet,571218,48.872,63.18,59.735,6.9969
+karnataka,kolar,mulbagal,563131,22.061,57.247,41.192,6.8766
+karnataka,kolar,malur,563130,22.013,73.949,51.447,6.8447
+karnataka,kolar,kolar,563101,22.085,73.272,48.209,6.9091
+karnataka,kolar,bangarapet,563114,22.124,73.568,43.644,6.9319
+karnataka,kolar,k g f,563122,22.841,66.185,48.201,6.985
+karnataka,kolar,srinivaspur,563135,22.307,73.324,46.614,6.9686
+karnataka,koppal,koppal,583231,50.25,75.282,75.262,7.0006
+karnataka,koppal,karatagi,583229,66.959,78.413,67.655,7.309
+karnataka,koppal,gangavathi,583227,63.716,79.364,70.46,7.0524
+karnataka,koppal,kanakagiri,583283,49.644,77.069,55.875,7.0749
+karnataka,koppal,yelburga,583236,49.306,78.941,55.421,7.0192
+karnataka,koppal,kukunoor,583232,57.326,78.323,62.81,6.9894
+karnataka,koppal,kushtagi,583277,58.562,76.781,70.322,7.0686
+karnataka,mandya,krishnarajpet,571426,24.485,70.734,54.68,6.8984
+karnataka,mandya,mandya,571401,28.091,70.742,57.338,6.9406
+karnataka,mandya,shrirangapattana,571438,21.983,72.947,60.794,7.0969
+karnataka,mandya,pandavapura,571434,20.116,58.25,47.6,6.8919
+karnataka,mandya,nagamangala,571432,23.786,70.862,52.844,6.8743
+karnataka,mandya,malvalli,571430,34.061,70.319,56.897,6.8472
+karnataka,mandya,maddur,571428,26.093,74.027,61.988,7.0755
+karnataka,mysuru,heggadadevankote,571114,20.213,66.746,56.643,6.8528
+karnataka,mysuru,saraguru,571121,20.117,74.666,59.157,6.7448
+karnataka,mysuru,nanjangud,571301,20.09,64.034,58.922,6.9946
+karnataka,mysuru,saligrama,571604,20.474,74.98,55.427,6.8807
+karnataka,mysuru,hunsur,571105,20.0,76.019,61.273,6.8783
+karnataka,mysuru,tirumakudal-narsipur,571101,20.096,74.354,50.575,6.8929
+karnataka,mysuru,mysuru,570001,20.501,75.86,58.131,6.8955
+karnataka,mysuru,piriyapatna,571107,20.06,76.279,75.287,6.9665
+karnataka,mysuru,krishnarajanagara,571602,20.0,75.467,59.071,6.9919
+karnataka,raichur,maski,584124,20.047,50.684,48.266,6.9886
+karnataka,raichur,manvi,584123,20.0,44.679,47.89,7.0186
+karnataka,raichur,sirawara,584129,20.0,51.107,49.235,7.0516
+karnataka,raichur,sindhanur,584128,20.126,49.382,48.236,7.0999
+karnataka,raichur,raichur,584101,20.126,49.784,47.264,7.1169
+karnataka,raichur,lingsugur,584122,20.0,51.02,47.654,7.0784
+karnataka,raichur,devadurga,584111,20.063,51.642,48.587,7.0245
+karnataka,ramangara,channapatna,562160,45.26,69.848,49.475,6.9894
+karnataka,ramangara,magadi,562120,42.5,69.101,43.775,6.6773
+karnataka,ramangara,ramanagara,562159,44.975,66.282,45.928,6.9442
+karnataka,ramangara,kanakapura,562117,42.629,77.159,46.73,6.9502
+karnataka,ramangara,harohalli,562112,46.43,67.502,50.36,6.9881
+karnataka,shivamogga,bhadravati,577301,25.058,62.407,70.432,6.9992
+karnataka,shivamogga,sorab,577429,32.744,42.711,56.618,6.7084
+karnataka,shivamogga,shikarpur,577427,27.095,66.338,69.623,6.981
+karnataka,shivamogga,sagar,577401,25.039,43.31,60.491,6.9363
+karnataka,shivamogga,shivamogga,577201,26.936,70.331,63.35,6.8855
+karnataka,shivamogga,hosanagara,577418,30.701,59.585,57.361,6.7389
+karnataka,shivamogga,tirthahalli,577432,24.834,54.179,53.264,6.5611
+karnataka,tumakuru,sira,572137,26.768,62.628,55.454,6.9944
+karnataka,tumakuru,turuvekere,572227,28.523,74.273,61.984,6.9996
+karnataka,tumakuru,gubbi,572216,27.656,66.908,54.866,6.9802
+karnataka,tumakuru,madhugiri,572132,23.066,71.666,57.707,6.9685
+karnataka,tumakuru,chiknayakanhalli,572214,26.513,66.605,54.494,6.9929
+karnataka,tumakuru,tumakuru,572101,23.978,69.17,56.897,6.9948
+karnataka,tumakuru,pavagada,561202,24.02,67.337,51.143,6.9692
+karnataka,tumakuru,kunigal,572130,24.434,64.856,57.416,6.9959
+karnataka,tumakuru,koratagere,572129,22.526,71.837,56.564,7.0033
+karnataka,tumakuru,tiptur,572201,27.797,64.982,57.848,6.9985
+karnataka,udupi,brahmavara,576213,35.375,69.048,44.12,6.1547
+karnataka,udupi,karkal,574104,28.643,50.826,48.068,6.1257
+karnataka,udupi,kapu,574106,40.022,61.847,51.611,6.0503
+karnataka,udupi,kundapura,576201,33.05,56.564,50.615,6.0776
+karnataka,udupi,udupi,576101,34.897,72.325,36.404,6.1659
+karnataka,udupi,bainduru,576214,29.198,58.914,48.014,6.342
+karnataka,udupi,hebri,576112,20.0,38.0,26.0,6.2
+karnataka,uttara kannada,mundgod,581346,25.016,62.0,49.082,6.8794
+karnataka,uttara kannada,supa,581129,22.703,51.652,61.304,6.8262
+karnataka,uttara kannada,sirsi,581401,31.85,64.15,35.934,6.7663
+karnataka,uttara kannada,siddapur,581355,26.948,45.629,36.437,6.6352
+karnataka,uttara kannada,kumta,581343,24.691,57.596,29.332,6.6469
+karnataka,uttara kannada,yellapur,581359,29.342,40.44,36.597,6.7491
+karnataka,uttara kannada,bhatkal,581320,21.92,68.231,32.09,6.9722
+karnataka,uttara kannada,ankola,581314,24.839,47.942,26.39,6.7988
+karnataka,uttara kannada,honavar,581334,22.25,53.693,70.914,6.9717
+karnataka,uttara kannada,dandeli,581325,20.0,21.902,43.268,7.0
+karnataka,uttara kannada,haliyal,581329,21.512,60.4,61.475,6.994
+karnataka,uttara kannada,karwar,581301,31.52,63.092,53.687,6.9254
+karnataka,vijayanagar,hadagalli,583219,37.97,46.376,33.183,7.8072
+karnataka,vijayanagar,kudligi,583135,24.32,60.833,37.004,6.9819
+karnataka,vijayanagar,harappanahalli,583131,35.808,37.085,31.49,7.0935
+karnataka,vijayanagar,hosapete,583201,34.537,49.094,33.533,7.3013
+karnataka,vijayanagar,hagaribommanahalli,583212,42.635,54.05,54.835,7.0747
+karnataka,vijayanagar,kottur,583134,20.0,70.952,48.814,7.5716
+karnataka,vijayapura,muddebihal,586212,20.105,78.29,59.528,7.0727
+karnataka,vijayapura,almel,586202,20.102,75.407,58.979,7.0187
+karnataka,vijayapura,thalikoti,586214,21.064,68.894,59.947,7.7583
+karnataka,vijayapura,devara hipparagi,586115,20.066,75.335,62.656,7.0189
+karnataka,vijayapura,kolhar,586101,20.0,72.854,61.466,7.0297
+karnataka,vijayapura,chadachan,586205,20.0,79.214,70.241,7.0962
+karnataka,vijayapura,vijayapura,586101,20.252,73.502,63.017,7.3545
+karnataka,vijayapura,basavana bagewadi,586203,20.087,76.262,60.848,7.0611
+karnataka,vijayapura,indi,586209,21.368,71.603,65.567,7.9471
+karnataka,vijayapura,nidagundi,586213,25.673,78.653,57.191,7.1461
+karnataka,vijayapura,babaleshwar,586113,22.625,78.506,53.711,7.4011
+karnataka,vijayapura,thikota,586104,20.0,78.815,61.298,7.0339
+karnataka,vijayapura,sindagi,586128,20.075,78.713,59.428,7.0258
+karnataka,yadgir,shahapur,585223,28.736,67.103,78.602,7.0954
+karnataka,yadgir,wadagera,585355,22.229,62.822,75.221,7.3273
+karnataka,yadgir,gurumitkal,585214,22.145,70.373,77.868,7.0311
+karnataka,yadgir,yadgir,585201,26.321,72.488,76.697,7.047
+karnataka,yadgir,hunasagi,585215,26.687,72.183,75.068,7.0078
+karnataka,yadgir,shorapur,585224,23.861,75.766,75.035,7.2329
+tamil nadu,ariyalur,andimadam,621801,20.0,50.033,49.628,7.0
+tamil nadu,ariyalur,ariyalur,621704,20.12,52.163,49.922,7.0014
+tamil nadu,ariyalur,thirumanur,621715,20.048,52.32,49.475,6.9992
+tamil nadu,ariyalur,t. palur,621803,20.0,50.498,49.847,6.9977
+tamil nadu,ariyalur,sendurai,621714,20.108,50.081,50.0,6.9982
+tamil nadu,ariyalur,jayamkondam,621802,20.0,50.279,49.874,6.9991
+tamil nadu,chengalpattu,madurantakam,603306,20.966,40.454,34.115,7.0575
+tamil nadu,chengalpattu,thiruporur,603110,21.14,44.169,29.975,7.0897
+tamil nadu,chengalpattu,chithamur,603301,20.468,49.871,41.895,7.001
+tamil nadu,chengalpattu,tirukkalukunram,603102,20.228,44.316,54.101,7.0927
+tamil nadu,chengalpattu,acharapakkam,603301,20.111,48.212,42.161,6.8667
+tamil nadu,chengalpattu,kattankolathur,603203,21.368,50.505,53.89,6.9947
+tamil nadu,chengalpattu,lathur,603303,21.386,49.97,43.127,6.9845
+tamil nadu,chengalpattu,st.thomas mount,600016,21.44,55.322,44.114,7.007
+tamil nadu,coimbatore,periyanayakkanpalayam,641020,20.087,48.257,76.685,7.1656
+tamil nadu,coimbatore,pollachi north,642001,20.24,42.851,77.681,7.1473
+tamil nadu,coimbatore,thondamuthur,641109,20.69,44.401,76.895,7.1902
+tamil nadu,coimbatore,madukkarai,641105,20.726,49.454,78.551,7.4533
+tamil nadu,coimbatore,sultanpet,641669,20.057,42.515,78.21,7.6162
+tamil nadu,coimbatore,kinathukadavu,642109,20.0,39.443,78.401,7.258
+tamil nadu,coimbatore,karamadai,641104,20.591,43.919,79.115,7.1005
+tamil nadu,coimbatore,pollachi south,642001,20.0,42.533,77.381,7.0447
+tamil nadu,coimbatore,sarcarsamakulam,641007,20.0,39.944,79.49,8.1421
+tamil nadu,coimbatore,annur,641653,20.492,41.873,78.929,7.4947
+tamil nadu,coimbatore,anamalai,642104,20.693,36.506,78.995,7.0252
+tamil nadu,coimbatore,sulur,641402,20.672,41.766,79.85,7.21
+tamil nadu,cuddalore,cuddalore,607001,20.021,71.624,47.729,7.0478
+tamil nadu,cuddalore,kattumannarkoil,608301,20.0,73.207,46.829,6.9942
+tamil nadu,cuddalore,mangalur,606104,20.072,69.077,50.174,7.1779
+tamil nadu,cuddalore,panruti,607106,20.0,70.957,43.209,7.0548
+tamil nadu,cuddalore,keerapalayam,608602,20.048,77.093,46.151,7.5146
+tamil nadu,cuddalore,kurinjipadi,607302,20.018,76.273,46.709,6.9756
+tamil nadu,cuddalore,annagramam,607201,20.0,76.88,46.136,7.0304
+tamil nadu,cuddalore,vriddhachalam,606001,20.0,70.266,52.708,7.037
+tamil nadu,cuddalore,parangipettai,608501,20.0,66.545,60.5,7.0589
+tamil nadu,cuddalore,kammapuram,607802,20.0,63.134,56.924,7.0308
+tamil nadu,cuddalore,melbhuvanagiri,608601,20.063,70.213,61.763,7.106
+tamil nadu,cuddalore,komaratchi,608302,20.0,65.891,57.653,7.6367
+tamil nadu,cuddalore,nallur,606302,20.018,62.33,61.952,6.9922
+tamil nadu,cuddalore,srimushnam,608703,20.048,74.445,46.352,7.1059
+tamil nadu,dharmapuri,karimangalam,636806,20.072,60.047,56.393,6.9922
+tamil nadu,dharmapuri,pappireddipatty,636905,20.072,58.157,60.557,7.2727
+tamil nadu,dharmapuri,dharmapuri,636701,20.0,59.246,59.308,7.0564
+tamil nadu,dharmapuri,palakkodu,636808,20.114,60.542,59.655,7.1453
+tamil nadu,dharmapuri,morappur,635305,20.114,61.077,59.234,7.0561
+tamil nadu,dharmapuri,nallampalli,636807,20.024,60.845,57.651,7.0993
+tamil nadu,dharmapuri,harur,636903,20.0,60.496,60.141,7.0176
+tamil nadu,dharmapuri,kadathur,635303,20.039,60.385,59.081,7.01
+tamil nadu,dharmapuri,pennagaram,636811,20.0,61.536,57.509,7.0365
+tamil nadu,dharmapuri,eriyur,636810,20.0,60.021,57.443,6.9921
+tamil nadu,dindigul,nilakottai,624219,20.252,43.701,75.212,7.1551
+tamil nadu,dindigul,athoor,624701,20.039,46.315,74.285,7.1583
+tamil nadu,dindigul,vattalkundu,624202,20.12,46.024,74.297,7.1515
+tamil nadu,dindigul,vedasandur,624710,20.402,38.018,66.723,7.0917
+tamil nadu,dindigul,reddiyarchatiram,624622,20.148,40.198,71.471,7.3648
+tamil nadu,dindigul,thoppampatti,624617,20.756,39.602,69.125,7.0163
+tamil nadu,dindigul,oddanchatram,624619,21.127,40.766,71.721,7.0214
+tamil nadu,dindigul,vadamadurai,624802,20.378,26.936,71.258,6.9949
+tamil nadu,dindigul,shanarpatti,624304,21.674,37.228,68.681,7.0654
+tamil nadu,dindigul,guziliamparai,624703,23.138,42.845,71.653,7.0055
+tamil nadu,dindigul,dindigul,624001,20.486,46.979,73.901,7.0495
+tamil nadu,dindigul,palani,624601,20.546,43.479,69.521,6.9954
+tamil nadu,dindigul,nattam,624401,20.3,40.622,68.513,7.0033
+tamil nadu,dindigul,kodaikanal,624101,20.885,45.392,69.509,6.4026
+tamil nadu,erode,nambiyur,638458,20.192,46.595,78.815,7.1089
+tamil nadu,erode,perundurai,638052,20.0,47.147,79.313,7.0291
+tamil nadu,erode,bhavani,638301,20.372,41.45,74.441,7.0456
+tamil nadu,erode,chennimalai,638051,20.126,40.265,72.884,7.0417
+tamil nadu,erode,erode,638001,20.33,43.637,69.503,7.0063
+tamil nadu,erode,gopichettipalaiyam,638452,20.084,41.219,72.713,7.0468
+tamil nadu,erode,andiyur,638455,20.0,38.09,70.049,7.3568
+tamil nadu,erode,modakurichi,638104,20.09,47.468,79.052,7.222
+tamil nadu,erode,kodumudi,638151,20.051,47.756,79.478,7.0105
+tamil nadu,erode,ammapet,638311,20.078,39.749,71.889,7.0119
+tamil nadu,erode,thoockanaickenpalaiyam,638506,20.072,42.074,68.609,7.0426
+tamil nadu,erode,bhavanisagar,638451,20.477,41.786,73.745,7.0372
+tamil nadu,erode,talavadi,638461,20.0,48.072,78.14,6.8009
+tamil nadu,erode,satyamangalam,638401,20.0,47.828,78.821,7.0144
+tamil nadu,kallakurichi,thiagadurgam,606305,20.061,57.97,69.029,7.0103
+tamil nadu,kallakurichi,chinnasalem,606201,20.0,62.867,69.245,6.9964
+tamil nadu,kallakurichi,tirunavalur,607204,20.0,58.248,66.939,7.0966
+tamil nadu,kallakurichi,kalrayanhills,606401,20.0,67.001,65.201,6.8233
+tamil nadu,kallakurichi,ulundurpet,606107,20.0,58.64,67.252,7.0071
+tamil nadu,kallakurichi,rishivandiam,606205,20.102,58.112,67.922,7.0173
+tamil nadu,kallakurichi,sankarapuram,606401,20.021,59.258,67.238,7.0914
+tamil nadu,kallakurichi,kallakkurichi,606202,20.021,56.56,67.845,7.0984
+tamil nadu,kallakurichi,tirukkoyilur,605757,20.03,57.636,73.508,6.988
+tamil nadu,kanchipuram,kanchipuram,631501,20.372,49.046,53.093,7.0072
+tamil nadu,kanchipuram,sriperumbudur,602105,20.099,53.655,52.139,6.9659
+tamil nadu,kanchipuram,walajabad,631605,20.018,57.638,62.411,6.9414
+tamil nadu,kanchipuram,uttiramerur,603406,20.03,44.591,57.34,7.0168
+tamil nadu,kanchipuram,kunnattur,631604,20.033,54.979,56.48,7.0085
+tamil nadu,kanniyakumari,rajakkamangalam,629501,20.0,71.78,46.16,6.8612
+tamil nadu,kanniyakumari,melpuram,629166,20.0,79.613,48.644,6.4951
+tamil nadu,kanniyakumari,kurunthancode,629802,20.303,70.805,61.757,6.8485
+tamil nadu,kanniyakumari,agastiswaram,629701,20.615,68.688,42.767,6.6382
+tamil nadu,kanniyakumari,thackalai,629175,20.363,77.999,66.365,6.9149
+tamil nadu,kanniyakumari,killiyoor,629157,20.0,80.0,49.819,6.2143
+tamil nadu,kanniyakumari,munchira,629171,20.192,79.421,41.87,6.9088
+tamil nadu,kanniyakumari,thiruvattar,629177,21.941,75.26,64.175,6.5908
+tamil nadu,kanniyakumari,thovala,629302,20.057,75.833,30.998,6.913
+tamil nadu,karur,thogaimalai,621313,20.0,34.745,68.6,6.9805
+tamil nadu,karur,karur,639001,20.0,51.458,68.567,7.4909
+tamil nadu,karur,kadavur,621311,20.0,43.934,70.277,7.5594
+tamil nadu,karur,thanthoni,639005,20.108,49.598,56.057,7.121
+tamil nadu,karur,aravakurichi,639201,20.0,47.684,75.371,7.6031
+tamil nadu,karur,kulittalai,639104,20.0,48.972,60.908,7.3413
+tamil nadu,karur,k.paramathy,639111,20.06,44.024,66.074,7.1074
+tamil nadu,karur,krishnarayapuram,639102,20.087,62.218,70.268,7.0587
+tamil nadu,krishnagiri,bargur,635104,20.027,59.189,53.589,7.1212
+tamil nadu,krishnagiri,krishnagiri,635001,20.0,64.748,56.474,7.0502
+tamil nadu,krishnagiri,shoolagiri,635117,20.0,65.12,40.466,6.8743
+tamil nadu,krishnagiri,mathur,635203,20.03,34.535,51.671,7.0846
+tamil nadu,krishnagiri,uthangarai,635207,20.0,39.128,54.609,7.0648
+tamil nadu,krishnagiri,veppanapalli,635121,20.027,63.203,45.863,6.9659
+tamil nadu,krishnagiri,kelamangalam,635113,20.03,36.122,46.273,6.992
+tamil nadu,krishnagiri,kaveripattinam,635112,20.0,56.555,51.305,7.3588
+tamil nadu,krishnagiri,hosur,635109,20.0,60.359,53.321,6.9784
+tamil nadu,krishnagiri,thally,635118,20.018,58.599,41.048,6.9799
+tamil nadu,madurai,kallikudi,625701,20.03,36.581,75.725,6.9505
+tamil nadu,madurai,usilampatti,625532,20.0,55.874,60.779,6.9952
+tamil nadu,madurai,tirupparangunram,625005,20.06,74.555,72.899,7.1125
+tamil nadu,madurai,tirumangalam,625706,20.114,46.07,70.229,7.0229
+tamil nadu,madurai,melur,625106,20.126,61.754,66.207,6.9991
+tamil nadu,madurai,madurai west,625001,20.036,67.589,63.128,7.0024
+tamil nadu,madurai,kottampatti,625103,20.0,68.414,67.799,7.0101
+tamil nadu,madurai,alanganallur,625501,20.0,62.342,68.291,7.0116
+tamil nadu,madurai,sedapatti,625527,20.066,52.762,61.784,7.1606
+tamil nadu,madurai,t.kallupatti,625702,20.083,55.132,67.572,7.0042
+tamil nadu,madurai,chellampatti,625514,20.108,52.277,62.468,7.1859
+tamil nadu,madurai,madurai east,625007,20.096,56.624,71.621,7.2619
+tamil nadu,madurai,vadipatti,625205,20.084,53.407,67.238,7.0021
+tamil nadu,mayiladuthurai,kuttalam,609801,20.0,57.965,57.947,7.0078
+tamil nadu,mayiladuthurai,sirkazhi,609110,20.0,68.105,54.417,7.0723
+tamil nadu,mayiladuthurai,kollidam,609102,21.863,49.343,63.035,7.0024
+tamil nadu,mayiladuthurai,mayiladuthurai,609001,20.018,68.642,51.182,7.0018
+tamil nadu,mayiladuthurai,sembanar koil,609304,20.09,53.606,69.152,7.0
+tamil nadu,nagapattinam,vedaranyam,614806,20.024,65.203,59.927,7.0076
+tamil nadu,nagapattinam,keelaiyur,614808,20.178,70.754,57.563,7.033
+tamil nadu,nagapattinam,thalanayar,614712,20.191,66.266,57.374,7.0008
+tamil nadu,nagapattinam,thirumarugal,611102,20.09,56.084,51.446,6.9985
+tamil nadu,nagapattinam,nagappattinam,611001,20.099,54.455,53.444,7.0335
+tamil nadu,nagapattinam,kilvelur,611104,20.061,70.199,57.83,7.0097
+tamil nadu,namakkal,puduchatram,637018,20.0,72.011,76.319,7.0117
+tamil nadu,namakkal,tiruchengodu,637209,20.066,52.769,72.911,8.2309
+tamil nadu,namakkal,namakkal,637001,20.097,61.769,78.392,7.0033
+tamil nadu,namakkal,erumapatty,637013,20.033,58.854,74.498,7.019
+tamil nadu,namakkal,paramathy,637203,20.039,50.501,65.735,8.5774
+tamil nadu,namakkal,pallipalayam,638006,20.045,56.246,70.607,8.1816
+tamil nadu,namakkal,rasipuram,637408,20.078,57.392,76.466,7.0386
+tamil nadu,namakkal,kolli hills,637411,21.875,50.162,73.838,6.4057
+tamil nadu,namakkal,mallasamudram,637503,20.183,53.72,70.256,8.7753
+tamil nadu,namakkal,elacipalayam,637202,20.06,47.567,72.554,8.4515
+tamil nadu,namakkal,vennandur,637505,20.0,59.999,75.282,7.1155
+tamil nadu,namakkal,kabilamalai,637204,20.039,62.279,71.06,8.0107
+tamil nadu,namakkal,namagiripet,637406,20.0,65.885,78.11,7.0039
+tamil nadu,namakkal,sendamangalam,637409,20.09,59.798,75.587,7.0045
+tamil nadu,namakkal,mohanur,637015,20.033,58.739,79.001,7.0207
+tamil nadu,perambalur,veppanthattai,621116,20.0,42.903,64.442,7.2042
+tamil nadu,perambalur,veppur,621717,20.042,34.586,64.394,7.1251
+tamil nadu,perambalur,alathur,621109,20.042,37.028,62.336,7.222
+tamil nadu,perambalur,perambalur,621212,20.0,43.046,66.131,7.1703
+tamil nadu,pudukkottai,tirumayam,622507,20.03,49.781,57.374,7.0093
+tamil nadu,pudukkottai,thiruvarankulam,622303,20.048,48.905,50.606,6.9992
+tamil nadu,pudukkottai,arantangi,614616,20.042,48.143,55.094,6.9947
+tamil nadu,pudukkottai,gandaravakottai,613301,20.15,50.882,46.521,7.0
+tamil nadu,pudukkottai,ponnamaravati,622407,20.108,49.5,56.91,7.0
+tamil nadu,pudukkottai,viralimalai,621316,20.072,50.885,54.665,7.0144
+tamil nadu,pudukkottai,annavasal,622101,20.096,47.195,54.659,7.0091
+tamil nadu,pudukkottai,pudukkottai,622001,20.0,43.265,49.917,7.1711
+tamil nadu,pudukkottai,avadaiyarkovil,614618,20.0,47.38,56.213,7.0
+tamil nadu,pudukkottai,arimalam,622201,20.099,51.35,49.223,7.0
+tamil nadu,pudukkottai,manalmelkudi,614620,20.126,58.403,50.793,6.9989
+tamil nadu,pudukkottai,kunnandarkoil,622502,20.114,51.104,55.0,6.9991
+tamil nadu,pudukkottai,karambakudi,622302,20.129,53.465,49.61,6.9862
+tamil nadu,ramanathapuram,paramakkudi,623707,20.144,53.677,79.292,7.0128
+tamil nadu,ramanathapuram,mudukulathur,623704,20.078,49.658,79.124,6.9828
+tamil nadu,ramanathapuram,tiruvadanai,623407,20.048,66.208,72.503,6.7791
+tamil nadu,ramanathapuram,tiruppullani,623532,20.054,52.703,71.209,6.9926
+tamil nadu,ramanathapuram,bogalur,623527,20.039,47.749,79.591,7.0039
+tamil nadu,ramanathapuram,mandapam,623518,20.0,63.44,57.133,6.8695
+tamil nadu,ramanathapuram,ramanathapuram,623501,20.15,53.822,75.917,6.9776
+tamil nadu,ramanathapuram,rajasingamangalam,623525,20.054,58.196,70.382,6.8554
+tamil nadu,ramanathapuram,kadaladi,623703,20.0,54.42,78.425,6.9995
+tamil nadu,ramanathapuram,kamudi,623603,20.056,51.636,78.392,6.9945
+tamil nadu,ramanathapuram,nainarkoil,623705,20.108,54.806,79.892,6.9964
+tamil nadu,ranipet,sholinghur,631102,20.0,63.491,42.488,7.0027
+tamil nadu,ranipet,kaveripakkam,632508,20.066,65.511,41.979,7.2724
+tamil nadu,ranipet,nemili,631051,20.102,63.353,40.076,7.1177
+tamil nadu,ranipet,arakkonam,631001,20.0,63.344,42.932,7.2106
+tamil nadu,ranipet,arcot,632503,20.0,64.568,43.202,7.3562
+tamil nadu,ranipet,timiri,632512,20.021,63.035,42.827,7.0547
+tamil nadu,ranipet,walajapet,632513,20.06,63.848,43.553,7.013
+tamil nadu,salem,sankari,637301,20.03,50.771,62.522,7.1581
+tamil nadu,salem,gangavalli,636105,20.0,42.0,63.527,7.0357
+tamil nadu,salem,kadaiyampatty,636351,20.177,45.261,65.304,7.0753
+tamil nadu,salem,mecheri,636451,20.039,46.268,55.991,7.2946
+tamil nadu,salem,attur,636102,20.0,43.667,70.209,7.015
+tamil nadu,salem,ayodhiyapattinam,636103,20.0,43.758,64.338,7.1029
+tamil nadu,salem,valapady,636115,20.09,42.956,69.344,7.2214
+tamil nadu,salem,salem,636001,20.0,43.886,65.456,7.3162
+tamil nadu,salem,omalur,636455,20.234,47.233,64.043,7.3144
+tamil nadu,salem,yercaud,636601,21.329,50.522,74.447,6.9905
+tamil nadu,salem,konganapuram,637102,20.069,44.138,69.518,7.9447
+tamil nadu,salem,veerapandi,636308,20.119,44.108,65.399,7.3609
+tamil nadu,salem,kolathur,636303,20.063,54.629,64.205,7.0
+tamil nadu,salem,panamarathupatti,636204,20.147,52.703,65.422,7.3093
+tamil nadu,salem,idappadi,637101,20.0,46.781,71.384,7.3996
+tamil nadu,salem,nangavalli,636454,20.171,49.598,64.142,7.1184
+tamil nadu,salem,macdonalds choultry,636305,20.0,37.637,67.568,7.0339
+tamil nadu,salem,talavasal,636112,20.078,49.922,67.478,7.087
+tamil nadu,salem,peddanaickenpalayam,636109,20.033,47.758,73.419,7.3171
+tamil nadu,salem,taramangalam,636502,20.153,39.173,65.684,7.1116
+tamil nadu,sivaganga,tiruppathur,630211,20.0,54.254,69.236,6.8636
+tamil nadu,sivaganga,kalaiyarkoil,630551,20.792,54.515,63.332,6.9334
+tamil nadu,sivaganga,tiruppuvanam,630611,20.0,32.132,57.878,7.025
+tamil nadu,sivaganga,kannankudi,630553,20.0,49.188,71.3,6.9569
+tamil nadu,sivaganga,manamadurai,630606,20.0,50.378,66.983,7.2988
+tamil nadu,sivaganga,sivaganga,630561,20.0,49.0,69.446,7.0595
+tamil nadu,sivaganga,ilayankudi,630702,20.0,43.669,70.797,7.4764
+tamil nadu,sivaganga,devakottai,630302,20.336,49.778,65.027,6.9433
+tamil nadu,sivaganga,sakkottai,630556,20.0,69.479,62.181,7.0646
+tamil nadu,sivaganga,kallal,630305,20.0,53.852,63.701,6.9473
+tamil nadu,sivaganga,s. pudur,630309,20.387,60.233,63.707,7.0046
+tamil nadu,sivaganga,singampunari,630502,20.0,43.943,68.255,7.4462
+tamil nadu,tenkasi,sankarankovil,627756,20.0,78.677,79.661,7.2118
+tamil nadu,tenkasi,kuruvikulam,627754,20.0,77.344,79.037,7.0361
+tamil nadu,tenkasi,melaneelithanallur,627953,20.0,71.354,74.387,7.0744
+tamil nadu,tenkasi,kadaiyanallur,627751,20.0,78.212,77.138,7.0
+tamil nadu,tenkasi,alangulam,627851,20.0,75.445,77.12,7.0294
+tamil nadu,tenkasi,keelapavoor,627806,20.0,73.703,76.088,7.0132
+tamil nadu,tenkasi,vasudevanallur,627758,20.0,77.861,78.969,7.2992
+tamil nadu,tenkasi,tenkasi,627811,20.108,74.357,79.316,7.1368
+tamil nadu,tenkasi,shencottah,627809,20.0,76.019,60.875,6.9091
+tamil nadu,tenkasi,kadayam,627415,20.0,76.664,59.888,6.8477
+tamil nadu,thanjavur,thiruppanandal,612504,20.0,58.706,59.42,7.0444
+tamil nadu,thanjavur,thiruvonam,614614,20.048,45.221,36.65,7.0123
+tamil nadu,thanjavur,peravurani,614804,20.03,58.256,46.227,6.9675
+tamil nadu,thanjavur,kumbakonam,612001,20.267,41.189,53.951,7.0342
+tamil nadu,thanjavur,pattukkottai,614601,20.0,62.67,50.108,7.0042
+tamil nadu,thanjavur,thanjavur,613001,20.0,59.096,74.152,6.9315
+tamil nadu,thanjavur,madukkur,614903,20.072,31.475,52.052,7.0574
+tamil nadu,thanjavur,budalur,613602,20.0,33.893,52.445,7.0375
+tamil nadu,thanjavur,orattanadu,614626,20.0,31.571,28.565,7.0423
+tamil nadu,thanjavur,ammapettai,614401,20.444,40.082,34.016,7.4776
+tamil nadu,thanjavur,papanasam,614205,21.173,39.944,68.968,7.0024
+tamil nadu,thanjavur,sethubhavachatram,614803,21.269,40.067,50.164,7.0069
+tamil nadu,thanjavur,thiruvaiyaru,613204,20.0,49.9,69.751,7.0
+tamil nadu,thanjavur,tiruvidaimarudur,612104,20.441,59.852,69.674,6.9924
+tamil nadu,the nilgiris,kotagiri,643217,29.36,79.748,75.824,6.8357
+tamil nadu,the nilgiris,udhagamandalam,643001,36.02,79.433,78.302,6.6826
+tamil nadu,the nilgiris,gudalur,643211,20.576,77.981,46.826,6.375
+tamil nadu,the nilgiris,coonoor,643101,23.636,78.812,52.371,6.7172
+tamil nadu,theni,andipatti,625512,20.144,52.403,74.32,6.9964
+tamil nadu,theni,periyakulam,625601,20.201,61.636,74.168,7.0141
+tamil nadu,theni,uttamapalaiyam,625533,20.144,63.782,70.955,6.8969
+tamil nadu,theni,theni,625531,20.393,66.353,75.197,7.2346
+tamil nadu,theni,chinnamanur,625515,20.114,61.635,68.474,7.0368
+tamil nadu,theni,bodinayakkanur,625513,20.272,50.049,75.416,7.547
+tamil nadu,theni,kadamalaikundru myladumparai,625579,20.182,53.222,72.734,7.1822
+tamil nadu,theni,kambam,625516,20.0,66.575,77.519,7.15
+tamil nadu,thiruvallur,kadambathur,631203,20.0,57.539,28.596,6.8487
+tamil nadu,thiruvallur,poondi,631207,20.018,66.44,46.979,6.873
+tamil nadu,thiruvallur,minjur,601203,20.076,64.853,40.343,6.9228
+tamil nadu,thiruvallur,tiruvelangadu,631210,20.054,55.221,40.033,7.0715
+tamil nadu,thiruvallur,poonamallee,600056,20.0,71.96,31.175,6.3399
+tamil nadu,thiruvallur,pallipattu,631207,20.138,58.918,38.525,7.0067
+tamil nadu,thiruvallur,villivakkam,600049,20.246,65.251,37.214,6.9672
+tamil nadu,thiruvallur,tiruvallur,602001,20.209,67.364,42.5,6.776
+tamil nadu,thiruvallur,sholavaram,600067,20.033,63.902,42.017,6.78
+tamil nadu,thiruvallur,r.k.pet,631209,20.0,54.293,39.581,6.9703
+tamil nadu,thiruvallur,gummidipundi,601201,20.036,48.677,31.607,6.7276
+tamil nadu,thiruvallur,ellapuram,602026,20.048,70.993,31.196,6.8326
+tamil nadu,thiruvallur,tiruttani,631209,20.09,44.793,43.151,7.1331
+tamil nadu,thiruvallur,puzhal,600066,20.0,80.0,50.0,7.0
+tamil nadu,thiruvarur,kottur,614708,20.015,72.926,57.662,6.9995
+tamil nadu,thiruvarur,thiruvarur,610001,20.0,76.949,77.375,7.0009
+tamil nadu,thiruvarur,koradacherry,610104,20.0,54.434,44.488,7.0
+tamil nadu,thiruvarur,mannargudi,614001,20.033,65.433,70.586,7.0066
+tamil nadu,thiruvarur,nannilam,610105,20.372,64.554,68.483,7.0027
+tamil nadu,thiruvarur,tirutturaippundi,614713,20.0,51.957,32.591,7.0
+tamil nadu,thiruvarur,nidamangalam,614404,20.0,77.64,79.889,7.0018
+tamil nadu,thiruvarur,muthupettai,614704,20.0,50.84,31.28,7.0
+tamil nadu,thiruvarur,valangaiman,612804,20.0,70.667,79.808,7.1356
+tamil nadu,thiruvarur,kodavasal,612601,20.0,68.818,72.239,7.2322
+tamil nadu,tiruchippalli,turaiyur,621010,20.0,41.342,73.886,7.2193
+tamil nadu,tiruchippalli,manikandam,620012,20.0,73.483,64.716,7.2908
+tamil nadu,tiruchippalli,thottiam,621207,20.0,46.76,71.264,7.0186
+tamil nadu,tiruchippalli,andanallur,620101,20.0,77.756,78.878,7.0243
+tamil nadu,tiruchippalli,manachanellur,621005,20.0,37.97,69.026,7.0774
+tamil nadu,tiruchippalli,thiruverambur,620013,20.0,74.346,76.265,7.3237
+tamil nadu,tiruchippalli,lalgudi,621601,20.0,75.341,68.813,7.0011
+tamil nadu,tiruchippalli,tattayyangarpettai,621214,20.0,38.231,65.462,7.1605
+tamil nadu,tiruchippalli,marungapuri,621305,22.778,60.833,65.213,7.0
+tamil nadu,tiruchippalli,uppiliapuram,621011,20.0,65.717,68.41,7.0873
+tamil nadu,tiruchippalli,manapparai,621306,20.0,54.698,70.181,6.9818
+tamil nadu,tiruchippalli,pullambadi,621711,20.039,46.454,71.585,7.1212
+tamil nadu,tiruchippalli,musiri,621211,20.0,52.357,67.995,7.6088
+tamil nadu,tiruchippalli,vaiyampatti,621315,20.0,49.298,66.425,6.9849
+tamil nadu,tirunelveli,cheranmahadevi,627414,24.95,67.256,58.958,7.3679
+tamil nadu,tirunelveli,manur,627201,21.683,55.931,65.303,7.228
+tamil nadu,tirunelveli,palayamkottai,627002,22.889,57.098,64.745,7.3743
+tamil nadu,tirunelveli,ambasamudram,627401,22.158,70.859,33.464,6.6084
+tamil nadu,tirunelveli,pappakudi,627602,27.671,60.16,64.943,6.9324
+tamil nadu,tirunelveli,nanguneri,627108,20.421,29.435,50.005,7.0171
+tamil nadu,tirunelveli,kalakadu,627501,20.414,48.576,69.35,7.6907
+tamil nadu,tirunelveli,valliyoor,627117,21.05,72.137,66.662,7.3959
+tamil nadu,tirunelveli,radhapuram,627111,20.168,45.098,53.339,6.9986
+tamil nadu,tirupathur,natrampalli,635852,20.135,62.801,58.43,7.2594
+tamil nadu,tirupathur,kandili,635901,20.07,66.027,51.243,7.22
+tamil nadu,tirupathur,tiruppattur,635601,20.06,64.907,61.571,7.0412
+tamil nadu,tirupathur,jolarpet,635851,20.063,66.557,58.134,7.3403
+tamil nadu,tirupathur,alangayan,635752,20.273,62.054,59.315,7.0446
+tamil nadu,tirupathur,madhanur,635804,20.027,58.276,59.258,7.0362
+tamil nadu,tiruppur,vellakoil,638111,20.0,48.508,79.784,9.031
+tamil nadu,tiruppur,tiruppur,641601,20.054,48.923,79.301,7.5691
+tamil nadu,tiruppur,uttukkuli,638751,20.054,48.854,79.478,7.5104
+tamil nadu,tiruppur,dharapuram,638656,20.102,47.622,79.697,8.936
+tamil nadu,tiruppur,kangayam,638701,20.114,42.92,78.563,7.2085
+tamil nadu,tiruppur,gudimangalam,642205,20.072,43.433,77.846,7.2751
+tamil nadu,tiruppur,avanashi,641654,20.122,48.767,79.123,7.2136
+tamil nadu,tiruppur,kundadam,638702,20.0,40.473,79.13,7.2361
+tamil nadu,tiruppur,mulanur,638106,20.0,47.682,79.049,7.2517
+tamil nadu,tiruppur,madathukulam,642113,20.144,42.518,78.929,7.3501
+tamil nadu,tiruppur,pongalur,641667,20.0,43.196,78.113,7.2835
+tamil nadu,tiruppur,palladam,641664,20.084,41.924,79.128,7.2613
+tamil nadu,tiruppur,udumalpet,642126,20.048,43.298,78.455,7.2457
+tamil nadu,tiruvannamalai,west arani,632317,22.662,47.741,57.332,7.0109
+tamil nadu,tiruvannamalai,arani,632301,20.195,50.052,39.404,7.1505
+tamil nadu,tiruvannamalai,polur,606803,20.06,54.497,36.009,7.107
+tamil nadu,tiruvannamalai,thandrampet,606707,20.147,56.114,46.313,7.0144
+tamil nadu,tiruvannamalai,pudupalayam,606704,20.0,55.712,41.276,7.1971
+tamil nadu,tiruvannamalai,jawathu hills,635703,20.0,64.751,38.963,6.9976
+tamil nadu,tiruvannamalai,chetput,606902,20.054,63.662,44.33,6.9973
+tamil nadu,tiruvannamalai,thurinjapuram,606805,20.06,60.204,43.391,7.005
+tamil nadu,tiruvannamalai,anakkavur,604401,20.699,58.676,48.056,7.0073
+tamil nadu,tiruvannamalai,keelpennathur,606804,20.0,63.985,35.91,6.9005
+tamil nadu,tiruvannamalai,vandavasi,604408,20.198,45.305,51.972,7.0048
+tamil nadu,tiruvannamalai,kalasapakkam,606751,20.276,52.124,49.298,7.0091
+tamil nadu,tiruvannamalai,cheyyar,604407,20.057,50.117,50.945,6.9923
+tamil nadu,tiruvannamalai,thellar,604406,20.03,60.267,48.977,7.0583
+tamil nadu,tiruvannamalai,vembakkam,604410,20.703,53.237,43.358,7.0055
+tamil nadu,tiruvannamalai,tiruvannamalai,606601,20.03,62.534,33.291,7.0084
+tamil nadu,tiruvannamalai,chengam,606701,22.352,57.856,55.94,7.0021
+tamil nadu,tiruvannamalai,pernamallur,604503,20.141,48.38,42.63,7.0132
+tamil nadu,tuticorn,ottapidaram,,20.0,52.928,79.671,7.5757
+tamil nadu,tuticorn,srivaikundam,,20.0,56.16,76.781,7.2478
+tamil nadu,tuticorn,thoothukkudi,,20.0,64.679,79.775,7.0
+tamil nadu,tuticorn,karungulam,,20.027,47.765,76.349,7.0068
+tamil nadu,tuticorn,kovilpatti,,20.0,45.386,79.562,7.2421
+tamil nadu,tuticorn,pudur,,20.0,49.643,78.728,7.3585
+tamil nadu,tuticorn,alwarthirunagari,,20.0,58.953,76.073,7.2534
+tamil nadu,tuticorn,tiruchendur,,20.0,70.988,63.405,6.9894
+tamil nadu,tuticorn,kayathar,,20.0,51.035,77.651,7.4527
+tamil nadu,tuticorn,vilathikulam,,20.0,46.535,79.97,8.0905
+tamil nadu,tuticorn,udangudi,,20.0,69.641,34.301,7.2268
+tamil nadu,tuticorn,sattankulam,,20.0,60.461,36.242,6.865
+tamil nadu,vellore,k.v.kuppam,632201,20.102,35.201,57.039,7.1048
+tamil nadu,vellore,gudiyattam,632602,20.061,34.175,58.391,7.4945
+tamil nadu,vellore,peranambattu,635810,20.106,34.628,56.327,7.9231
+tamil nadu,vellore,vellore,632001,20.225,40.691,53.252,7.4638
+tamil nadu,vellore,kaniyambadi,632102,20.0,38.201,52.718,7.056
+tamil nadu,vellore,anaicut,632101,20.078,43.846,48.689,7.1869
+tamil nadu,vellore,katpadi,,20.0,38.225,56.402,7.1853
+tamil nadu,villupuram,mailam,604304,20.072,55.958,50.614,7.0009
+tamil nadu,villupuram,kanai,605001,20.0,59.174,51.221,6.9563
+tamil nadu,villupuram,olakkur,604305,20.084,52.262,53.792,7.0013
+tamil nadu,villupuram,vikravandi,605652,20.048,59.564,60.324,7.0818
+tamil nadu,villupuram,mugaiyur,605755,20.075,56.714,64.356,6.9987
+tamil nadu,villupuram,vanur,605109,20.0,57.819,53.108,6.9994
+tamil nadu,villupuram,melmalayanur,604204,20.0,66.03,58.586,6.9777
+tamil nadu,villupuram,marakkanam,604303,20.0,78.23,47.221,7.0018
+tamil nadu,villupuram,thiruvennainallur,607203,20.042,55.838,50.0,6.9993
+tamil nadu,villupuram,gingee,604202,20.036,61.89,56.702,6.9979
+tamil nadu,villupuram,vallam,604206,20.036,53.888,60.017,6.9875
+tamil nadu,villupuram,koliyanur,605103,20.096,44.272,55.949,7.054
+tamil nadu,villupuram,kandamangalam,605102,20.024,55.607,67.316,6.9992
+tamil nadu,virudhunagar,virudhunagar,626001,20.052,48.42,72.952,7.245
+tamil nadu,virudhunagar,kariapatti,626106,20.222,20.045,46.928,7.5086
+tamil nadu,virudhunagar,tiruchuli,626129,20.309,22.559,61.877,7.8122
+tamil nadu,virudhunagar,aruppukottai,626101,20.0,20.432,65.055,7.6
+tamil nadu,virudhunagar,sattur,626203,20.12,54.839,76.562,7.3361
+tamil nadu,virudhunagar,narikudi,626607,20.066,21.422,56.873,7.2382
+tamil nadu,virudhunagar,vembakottai,626131,20.042,50.582,75.506,7.1173
+tamil nadu,virudhunagar,srivilliputtur,626125,20.0,60.08,72.245,7.0837
+tamil nadu,virudhunagar,sivakasi,626123,20.137,52.274,77.594,7.2915
+tamil nadu,virudhunagar,rajapalaiyam,626117,20.249,62.597,66.851,7.1293
+tamil nadu,virudhunagar,watrap,626132,20.117,60.2,65.172,7.4103
