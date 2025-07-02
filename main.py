@@ -124,16 +124,17 @@ def get_current_season():
     else:  # May
         return "zaid"
 
+def normalize_pincode(pin):
+    return str(pin).strip().zfill(6)
+
+def pincode_match(pincode_str, target_pincode):
+    if pd.isna(pincode_str):
+        return False
+    pincodes = [normalize_pincode(p) for p in str(pincode_str).split(',')]
+    return normalize_pincode(target_pincode) in pincodes
+
 @app.get("/recommend_crops")
 def recommend_crops(pincode: str):
-    # Function to check if pincode exists in comma-separated string
-    def pincode_match(pincode_str, target_pincode):
-        if pd.isna(pincode_str):
-            return False
-        # Split by comma and strip whitespace, then check if target exists
-        pincodes = [p.strip() for p in str(pincode_str).split(',')]
-        return target_pincode in pincodes
-    
     # Lookup soil data for pincode using string matching
     soil_row = soil_df[soil_df['Pincode'].apply(lambda x: pincode_match(x, pincode))]
     
