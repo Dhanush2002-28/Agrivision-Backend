@@ -1,0 +1,60 @@
+{
+  "models_comparison": {
+    "LightGBM": {
+      "accuracy": 0.9886685552407932,
+      "mae": 0.1643059490084986,
+      "r2_score": 0.9747659169165019,
+      "rmse": 1.5590365296714053,
+      "cv_accuracy_mean": 0.9858105550087075,
+      "cv_accuracy_std": 0.009243228805301831,
+      "training_time": 2.7533929347991943,
+      "prediction_time": 0.009144306182861328
+    },
+    "Random Forest": {
+      "accuracy": 0.9915014164305949,
+      "mae": 0.13314447592067988,
+      "r2_score": 0.9783245696590466,
+      "rmse": 1.4449286130753494,
+      "cv_accuracy_mean": 0.9936094495343379,
+      "cv_accuracy_std": 0.005217880917932041,
+      "training_time": 0.4969666004180908,
+      "prediction_time": 0.008644342422485352
+    },
+    "Gradient Boosting": {
+      "accuracy": 0.9518413597733711,
+      "mae": 0.8413597733711048,
+      "r2_score": 0.8319786519160554,
+      "rmse": 4.022951152740624,
+      "cv_accuracy_mean": 0.9581282653138488,
+      "cv_accuracy_std": 0.00820040233372353,
+      "training_time": 13.18807601928711,
+      "prediction_time": 0.026052474975585938
+    },
+    "Support Vector Machine": {
+      "accuracy": 0.9745042492917847,
+      "mae": 0.3286118980169972,
+      "r2_score": 0.9512376343211657,
+      "rmse": 2.1672295339191043,
+      "cv_accuracy_mean": 0.9744377981373514,
+      "cv_accuracy_std": 0.010896560551004492,
+      "training_time": 0.12329411506652832,
+      "prediction_time": 0.016779661178588867
+    }
+  },
+  "best_models": {
+    "Best Accuracy": "Random Forest",
+    "Best MAE (lowest)": "Random Forest",
+    "Best R\u00b2 Score": "Random Forest",
+    "Best RMSE (lowest)": "Random Forest",
+    "Best CV Accuracy": "Random Forest",
+    "Fastest Training": "Support Vector Machine",
+    "Fastest Prediction": "Random Forest"
+  },
+  "dataset_info": {
+    "total_samples": 1762,
+    "num_features": 7,
+    "num_classes": 22,
+    "train_samples": 1409,
+    "test_samples": 353
+  }
+}

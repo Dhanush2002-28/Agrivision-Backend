@@ -9,4 +9,7 @@ python-multipart
 requests
 httpx
 pydantic
+matplotlib
+seaborn
+xgboost
 # Add any other packages you use
