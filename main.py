@@ -5,6 +5,9 @@ import numpy as np
 from fastapi.middleware.cors import CORSMiddleware
 import datetime
 
+
+from reverse_geocode_proxy import router as reverse_geocode_router
+
 app = FastAPI()
 
 origins = [
@@ -20,6 +23,9 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+# Mount the reverse geocode proxy router
+app.include_router(reverse_geocode_router)
+
 # Load soil lookup and model at startup
 soil_df = pd.read_csv("data/processed/soil_lookup.csv")
 weather_df = pd.read_csv("data/processed/weather_lookup.csv")
@@ -28,22 +34,7 @@ model = joblib.load("data/processed/crop_recommendation_lgbm_augmented.pkl")
 crop_label_df = pd.read_csv("data/processed/crop_label_map.csv", index_col=0)
 CROP_LABEL_MAPPING = {v: k for k, v in crop_label_df.iloc[:, 0].to_dict().items()}
 
-# Add reverse geocode endpoint
-@app.get("/reverse-geocode")
-def reverse_geocode(lat: float, lon: float):
-    """Simple reverse geocoding using fallback data"""
-    try:
-        return {
-            "address": {
-                "postcode": "560095",     
-                "state": "Karnataka",     
-                "county": "Bengaluru Urban",
-                "city": "Bengaluru", 
-                "suburb": "Central Bengaluru"
-            }
-        }
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Reverse geocoding failed: {str(e)}")
+
 
 @app.post("/recommend-crop")  
 def recommend_crop(request_data: dict):

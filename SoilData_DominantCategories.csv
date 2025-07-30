@@ -1,0 +1,886 @@
+State,District,Block,Nitrogen_Status,Phosphorous_Status,Potassium_Status,OC_Status,EC_Status,pH_Status
+Goa,North Goa,SATARI,High,Low,High,High,Non Saline,Acidic
+Goa,North Goa,TISWADI,Low,High,Low,Low,Non Saline,Acidic
+Goa,North Goa,BARDEZ,High,Low,Low,High,Non Saline,Acidic
+Goa,North Goa,PERNEM,High,High,High,High,Non Saline,Acidic
+Goa,North Goa,BICHOLIM,Low,High,Medium,High,Non Saline,Acidic
+Goa,South Goa,SALCETE,Medium,High,Low,High,Non Saline,Acidic
+Goa,South Goa,QUEPEM,Medium,Low,Medium,High,Non Saline,Acidic
+Goa,South Goa,PONDA,Medium,Low,High,High,Non Saline,Acidic
+Goa,South Goa,Dharbandora,Medium,Low,Medium,High,Non Saline,Acidic
+Goa,South Goa,CANACONA,Medium,High,Medium,High,Non Saline,Neutral
+Gujarat,Ahmedabad,DASKROI,Low,High,High,Medium,Non Saline,Neutral
+Gujarat,Ahmedabad,VIRAMGAM,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Ahmedabad,DETROJ RAMPURA,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Ahmedabad,MANDAL,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Ahmedabad,SANAND,Low,High,High,Medium,Non Saline,Neutral
+Gujarat,Ahmedabad,BAVLA,Low,High,High,Medium,Non Saline,Neutral
+Gujarat,Ahmedabad,DHANDHUKA,Low,High,High,Medium,Non Saline,Neutral
+Gujarat,Ahmedabad,Dholera,Low,High,High,Medium,Non Saline,Neutral
+Gujarat,Ahmedabad,DHOLKA,Low,High,High,High,Non Saline,Neutral
+Gujarat,Amreli,AMRELI,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Amreli,LATHI,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Amreli,BABRA,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Amreli,LILIA,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Amreli,JAFRABAD,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Amreli,KUNKAVAV -VADIA,Low,Medium,Medium,High,Non Saline,Neutral
+Gujarat,Amreli,BAGASARA,Low,Medium,Medium,High,Non Saline,Neutral
+Gujarat,Amreli,DHARI,Low,Medium,Low,High,Non Saline,Neutral
+Gujarat,Amreli,RAJULA,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Amreli,KHAMBHA,Low,High,High,Medium,Non Saline,Neutral
+Gujarat,Amreli,SAVERKUNDLA,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Anand,ANKLAV,Low,High,High,High,Non Saline,Neutral
+Gujarat,Anand,SOJITRA,Low,High,High,High,Non Saline,Neutral
+Gujarat,Anand,ANAND,Low,High,High,High,Non Saline,Neutral
+Gujarat,Anand,BORSAD,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Anand,UMRETH,Low,High,High,Medium,Non Saline,Neutral
+Gujarat,Anand,PETLAD,Low,High,High,High,Non Saline,Neutral
+Gujarat,Anand,TARAPUR,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Anand,KHAMBHAT,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Arvalli,BAYAD,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Arvalli,MODASA,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Arvalli,MALPUR,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Arvalli,MEGHRAJ,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Arvalli,BHILODA,Low,High,Medium,Low,Non Saline,Neutral
+Gujarat,Arvalli,DHANSURA,Low,High,High,Medium,Non Saline,Neutral
+Gujarat,Banas Kantha,THARAD,Low,High,High,Medium,Non Saline,Neutral
+Gujarat,Banas Kantha,LAKHANI,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Banas Kantha,AMIRGADH,Low,High,Low,Low,Non Saline,Neutral
+Gujarat,Banas Kantha,DHANERA,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Banas Kantha,KANKREJ,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Banas Kantha,DANTIVADA,Low,High,High,Medium,Non Saline,Neutral
+Gujarat,Banas Kantha,DEESA,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Banas Kantha,SUIGAM,Low,High,Medium,Medium,Non Saline,Neutral
+Gujarat,Banas Kantha,PALANPUR,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Banas Kantha,BHABHAR,Low,High,High,Medium,Non Saline,Neutral
+Gujarat,Banas Kantha,VADGAM,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Banas Kantha,DANTA,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Banas Kantha,DEODAR,Low,High,Medium,Medium,Non Saline,Neutral
+Gujarat,Banas Kantha,VAV,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Bharuch,THARAD,Low,High,High,Medium,Non Saline,Neutral
+Gujarat,Bharuch,LAKHANI,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Bharuch,AMIRGADH,Low,High,Low,Low,Non Saline,Neutral
+Gujarat,Bharuch,DHANERA,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Bharuch,KANKREJ,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Bharuch,DANTIVADA,Low,High,High,Medium,Non Saline,Neutral
+Gujarat,Bharuch,DEESA,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Bharuch,SUIGAM,Low,High,Medium,Medium,Non Saline,Neutral
+Gujarat,Bharuch,PALANPUR,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Bharuch,BHABHAR,Low,High,High,Medium,Non Saline,Neutral
+Gujarat,Bharuch,VADGAM,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Bharuch,DANTA,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Bharuch,DEODAR,Low,High,Medium,Medium,Non Saline,Neutral
+Gujarat,Bharuch,VAV,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Bhavnagar,BHARUCH,Low,Low,High,High,Non Saline,Neutral
+Gujarat,Bhavnagar,AMOD,Low,Medium,Medium,High,Non Saline,Neutral
+Gujarat,Bhavnagar,ANKLESVAR,Low,Low,High,High,Non Saline,Neutral
+Gujarat,Bhavnagar,JAMBUSAR,Low,Medium,High,High,Non Saline,Neutral
+Gujarat,Bhavnagar,HANSOT,Low,Medium,High,Medium,Non Saline,Neutral
+Gujarat,Bhavnagar,VAGRA,Low,Medium,Medium,High,Non Saline,Neutral
+Gujarat,Bhavnagar,JHAGADIA,Low,Low,Medium,High,Non Saline,Neutral
+Gujarat,Bhavnagar,VALIA,Low,High,High,Medium,Non Saline,Neutral
+Gujarat,Bhavnagar,Netrang,Low,High,Medium,High,Non Saline,Neutral
+Gujarat,Botad,BOTAD,Low,Medium,High,High,Non Saline,Neutral
+Gujarat,Botad,GADHADA,Low,Medium,High,High,Non Saline,Neutral
+Gujarat,Botad,BARVALA,Low,Medium,High,Medium,Non Saline,Neutral
+Gujarat,Botad,RANPUR,Low,Medium,High,High,Non Saline,Neutral
+Gujarat,Chhotaudepur,NASWADI,Medium,Low,High,High,Non Saline,Neutral
+Gujarat,Chhotaudepur,KAWANT,Low,Medium,High,High,Non Saline,Neutral
+Gujarat,Chhotaudepur,JETPUR PAVI,Low,Medium,High,High,Non Saline,Neutral
+Gujarat,Chhotaudepur,SANKHEDA,Low,Medium,High,High,Non Saline,Neutral
+Gujarat,Chhotaudepur,Bodeli,Low,Low,High,High,Non Saline,Neutral
+Gujarat,Chhotaudepur,CHHOTA UDEPUR,Low,Low,Medium,High,Non Saline,Neutral
+Gujarat,Dang,Subir,Medium,Low,Medium,High,Non Saline,Neutral
+Gujarat,Dang,Waghai,Medium,High,Medium,Medium,Non Saline,Neutral
+Gujarat,Dang,AHWA,Low,Low,Low,High,Non Saline,Neutral
+Gujarat,Devbhumi Dwarka,KALYANPUR,Medium,High,High,High,Non Saline,Neutral
+Gujarat,Devbhumi Dwarka,KHAMBHALIA,Low,High,Medium,Low,Saline,Neutral
+Gujarat,Devbhumi Dwarka,OKHAMANDAL,Medium,High,Medium,Medium,Saline,Neutral
+Gujarat,Devbhumi Dwarka,BHANVAD,Medium,High,Medium,Medium,Saline,Neutral
+Gujarat,Dohad,GARBADA,Low,High,Medium,Low,Saline,Neutral
+Gujarat,Dohad,FATEPURA,Low,Medium,Medium,Medium,Saline,Neutral
+Gujarat,Dohad,SANJELI,Low,High,Medium,Low,Saline,Neutral
+Gujarat,Dohad,LIMKHEDA,Low,High,Medium,Low,Saline,Neutral
+Gujarat,Dohad,SINGVAD,Low,High,Medium,Low,Saline,Neutral
+Gujarat,Dohad,DAHOD,Medium,High,Medium,Medium,Non Saline,Neutral
+Gujarat,Dohad,JHALOD,Low,High,Medium,Medium,Saline,Neutral
+Gujarat,Dohad,DHANPUR,Low,Medium,High,Medium,Non Saline,Neutral
+Gujarat,Dohad,DEVGAD BARIYA,Low,Medium,High,High,Non Saline,Neutral
+Gujarat,Gandhinagar,GANDHINAGAR,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Gandhinagar,MANSA,Low,High,High,Medium,Non Saline,Neutral
+Gujarat,Gandhinagar,KALOL,Low,High,High,Medium,Non Saline,Neutral
+Gujarat,Gandhinagar,DEHGAM,Low,High,High,Medium,Non Saline,Neutral
+Gujarat,Gir Somnath,UNA,Medium,Medium,Medium,Medium,Saline,Neutral
+Gujarat,Gir Somnath,PATAN VERAVAL,Medium,Medium,Medium,Medium,Non Saline,Neutral
+Gujarat,Gir Somnath,GirGadhda,Low,Medium,Medium,Medium,Saline,Neutral
+Gujarat,Gir Somnath,SUTRAPADA,Medium,Medium,Medium,Medium,Non Saline,Neutral
+Gujarat,Gir Somnath,KODINAR,Low,Medium,Medium,Medium,Saline,Neutral
+Gujarat,Gir Somnath,TALALA,Low,Medium,Medium,Medium,Saline,Neutral
+Gujarat,Jamnagar,JAMNAGAR,Low,High,Medium,Medium,Non Saline,Neutral
+Gujarat,Jamnagar,KALAVAD,Low,High,Medium,Low,Non Saline,Neutral
+Gujarat,Jamnagar,LALPUR,Low,High,Medium,Low,Non Saline,Neutral
+Gujarat,Jamnagar,DHROL,Medium,High,Medium,Medium,Non Saline,Neutral
+Gujarat,Jamnagar,JODIYA,Low,High,Medium,Medium,Non Saline,Neutral
+Gujarat,Jamnagar,JAMJODHPUR,Low,High,Medium,Low,Non Saline,Neutral
+Gujarat,Junagadh,MANGROL,Low,High,High,Medium,Non Saline,Neutral
+Gujarat,Junagadh,MENDARDA,Low,High,High,Medium,Non Saline,Neutral
+Gujarat,Junagadh,JUNAGADH,Low,High,High,Medium,Non Saline,Neutral
+Gujarat,Junagadh,BHESAN,Low,High,High,Medium,Non Saline,Neutral
+Gujarat,Junagadh,KESHOD,Low,High,High,Medium,Non Saline,Neutral
+Gujarat,Junagadh,VANTHALI,Low,High,High,Medium,Non Saline,Neutral
+Gujarat,Junagadh,VISAVADAR,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Junagadh,MALIA,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Junagadh,MANAVADAR,Low,High,High,Medium,Non Saline,Neutral
+Gujarat,Kachchh,LAKHPAT,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Kachchh,MANDVI,Low,High,High,Medium,Non Saline,Neutral
+Gujarat,Kachchh,RAPAR,Low,High,High,Medium,Non Saline,Neutral
+Gujarat,Kachchh,GANDHIDHAM,Low,Medium,High,Low,Saline,Neutral
+Gujarat,Kachchh,ANJAR,Low,Medium,High,Low,Non Saline,Neutral
+Gujarat,Kachchh,BHACHAU,Low,Medium,High,Low,Non Saline,Neutral
+Gujarat,Kachchh,MUNDRA,Low,High,High,Medium,Non Saline,Neutral
+Gujarat,Kachchh,NAKHATRANA,Low,High,High,Medium,Non Saline,Neutral
+Gujarat,Kachchh,ABDASA,Low,High,High,Medium,Saline,Neutral
+Gujarat,Kachchh,BHUJ,Low,High,High,High,Non Saline,Neutral
+Gujarat,Kheda,KAPADVANJ,Low,High,High,High,Non Saline,Neutral
+Gujarat,Kheda,MAHUDHA,Low,High,High,High,Non Saline,Neutral
+Gujarat,Kheda,GALTESHWAR,Low,High,High,Medium,Non Saline,Neutral
+Gujarat,Kheda,NADIAD,Low,High,High,Medium,Non Saline,Neutral
+Gujarat,Kheda,VASO,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Kheda,MATAR,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Kheda,MEHMEDABAD,Low,High,High,Medium,Non Saline,Neutral
+Gujarat,Kheda,THASRA,Low,High,High,Medium,Non Saline,Neutral
+Gujarat,Kheda,KATHLAL,Low,High,High,Medium,Non Saline,Neutral
+Gujarat,Kheda,KHEDA,Low,High,High,Medium,Non Saline,Neutral
+Gujarat,Mahesana,JOTANA,Low,High,Medium,Low,Non Saline,Neutral
+Gujarat,Mahesana,VISNAGAR,Low,Medium,Medium,Medium,Non Saline,Neutral
+Gujarat,Mahesana,KADI,Low,Medium,Medium,Low,Non Saline,Neutral
+Gujarat,Mahesana,KHERALU,Low,High,Medium,Low,Non Saline,Alkaline
+Gujarat,Mahesana,MAHESANA,Low,Medium,Medium,Low,Non Saline,Neutral
+Gujarat,Mahesana,SATLASNA,Low,Medium,Low,Medium,Non Saline,Neutral
+Gujarat,Mahesana,BECHRAJI,Low,High,Medium,Low,Non Saline,Neutral
+Gujarat,Mahesana,VIJAPUR,Low,High,Medium,Medium,Non Saline,Neutral
+Gujarat,Mahesana,VADNAGAR,Low,Medium,Medium,Medium,Non Saline,Neutral
+Gujarat,Mahesana,UNJHA,Low,High,Medium,Medium,Non Saline,Neutral
+Gujarat,Mahisagar,VIRPUR,Low,Medium,High,Medium,Non Saline,Neutral
+Gujarat,Mahisagar,KADANA,Low,High,High,Medium,Non Saline,Neutral
+Gujarat,Mahisagar,SANTRAMPUR,Low,High,High,Medium,Non Saline,Neutral
+Gujarat,Mahisagar,LUNAWADA,Low,Medium,High,Medium,Non Saline,Neutral
+Gujarat,Mahisagar,BALASINOR,Low,Medium,High,Medium,Non Saline,Neutral
+Gujarat,Mahisagar,KHANPUR,Low,Medium,High,Medium,Non Saline,Neutral
+Gujarat,Morbi,HALVAD,Medium,High,Medium,High,Non Saline,Neutral
+Gujarat,Morbi,WANKANER,Low,High,Medium,Low,Non Saline,Neutral
+Gujarat,Morbi,MORVI,Medium,High,Medium,Low,Non Saline,Neutral
+Gujarat,Morbi,MALIYA,Medium,High,Medium,Low,Non Saline,Neutral
+Gujarat,Morbi,TANKARA,Medium,High,Medium,Medium,Non Saline,Neutral
+Gujarat,Narmada,NANDOD,Medium,High,High,High,Non Saline,Neutral
+Gujarat,Narmada,SAGBARA,Low,High,High,High,Non Saline,Neutral
+Gujarat,Narmada,GARUDESHWAR,Low,High,High,High,Non Saline,Neutral
+Gujarat,Narmada,TILAKWADA,Low,High,High,High,Non Saline,Neutral
+Gujarat,Narmada,DEDIYAPADA,Low,Low,Low,High,Non Saline,Neutral
+Gujarat,Navsari,VANSDA,Low,High,High,Medium,Non Saline,Neutral
+Gujarat,Navsari,JALALPORE,Medium,High,High,Medium,Non Saline,Neutral
+Gujarat,Navsari,KHERGAM,Medium,High,High,Medium,Non Saline,Neutral
+Gujarat,Navsari,GANDEVI,Low,High,High,Medium,Non Saline,Neutral
+Gujarat,Navsari,CHIKHALI,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Navsari,NAVSARI,Low,High,High,Medium,Non Saline,Neutral
+Gujarat,Panch Mahals,GHOGHAMBA,Low,Medium,Medium,High,Non Saline,Neutral
+Gujarat,Panch Mahals,GODHRA,Low,Medium,High,High,Non Saline,Neutral
+Gujarat,Panch Mahals,HALOL,Low,High,Medium,High,Non Saline,Neutral
+Gujarat,Panch Mahals,JAMBUGHODA,Medium,High,Medium,High,Non Saline,Neutral
+Gujarat,Panch Mahals,MORVAHADAF,Medium,High,High,High,Non Saline,Neutral
+Gujarat,Panch Mahals,SHEHERA,Low,Medium,Medium,High,Non Saline,Neutral
+Gujarat,Panch Mahals,KALOL,Low,High,High,High,Non Saline,Neutral
+Gujarat,Patan,SANTALPUR,Low,High,High,Medium,Non Saline,Neutral
+Gujarat,Patan,SANKHESHWAR,Low,High,High,Medium,Non Saline,Neutral
+Gujarat,Patan,SARASWATI,Low,High,High,Medium,Non Saline,Neutral
+Gujarat,Patan,CHANASMA,Low,High,High,Medium,Saline,Neutral
+Gujarat,Patan,HARIJ,Low,High,High,Medium,Non Saline,Neutral
+Gujarat,Patan,PATAN,Low,High,High,Low,Saline,Neutral
+Gujarat,Patan,SAMI,Low,Medium,High,Low,Non Saline,Neutral
+Gujarat,Patan,RADHANPUR,Low,High,High,Medium,Saline,Neutral
+Gujarat,Patan,SIDHPUR,Low,High,High,Medium,Non Saline,Neutral
+Gujarat,Porbandar,RANAVAV,Low,High,High,High,Saline,Neutral
+Gujarat,Porbandar,PORBANDAR,Low,High,High,High,Non Saline,Neutral
+Gujarat,Porbandar,KUTIYANA,Low,Medium,High,Medium,Saline,Neutral
+Gujarat,Rajkot,DHORAJI,Low,High,High,Medium,Non Saline,Neutral
+Gujarat,Rajkot,GONDAL,Low,High,High,Medium,Non Saline,Neutral
+Gujarat,Rajkot,PADDHARI,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Rajkot,JASDAN,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Rajkot,RAJKOT,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Rajkot,VINCHHIYA,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Rajkot,JAMKANDORNA,Medium,High,High,Medium,Saline,Neutral
+Gujarat,Rajkot,LODHIKA,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Rajkot,JETPUR,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Rajkot,UPLETA,Medium,High,High,Medium,Saline,Neutral
+Gujarat,Rajkot,KOTDA SANGANI,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Sabar Kantha,IDAR,Low,High,Medium,Low,Non Saline,Neutral
+Gujarat,Sabar Kantha,KHEDBRAHMA,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Sabar Kantha,VIJAYNAGAR,Low,High,Medium,Low,Non Saline,Neutral
+Gujarat,Sabar Kantha,PRANTIJ,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Sabar Kantha,HIMATNAGAR,Low,High,Medium,Low,Non Saline,Neutral
+Gujarat,Sabar Kantha,TALOD,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Sabar Kantha,POSHINA,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Sabar Kantha,VADALI,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Surat,PALSANA,Low,High,Medium,Low,Non Saline,Neutral
+Gujarat,Surat,MANDVI,Low,High,Medium,High,Non Saline,Neutral
+Gujarat,Surat,BARDOLI,Low,High,Medium,Low,Non Saline,Neutral
+Gujarat,Surat,MAHUVA,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Surat,CHORASI,Low,High,High,High,Non Saline,Neutral
+Gujarat,Surat,KAMREJ,Low,High,High,High,Non Saline,Neutral
+Gujarat,Surat,UMARPADA,Low,High,Medium,Low,Non Saline,Neutral
+Gujarat,Surat,OLPAD,Low,High,Medium,Low,Non Saline,Neutral
+Gujarat,Surat,MANGROL,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Surendranagar,SAYLA,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Surendranagar,THANGADH,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Surendranagar,CHUDA,Low,High,High,Medium,Non Saline,Neutral
+Gujarat,Surendranagar,LAKHTAR,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Surendranagar,WADHWAN,Medium,High,High,Medium,Non Saline,Neutral
+Gujarat,Surendranagar,MULI,Medium,High,Medium,Medium,Non Saline,Neutral
+Gujarat,Surendranagar,LIMBDI,Low,High,Medium,Low,Non Saline,Neutral
+Gujarat,Surendranagar,CHOTILA,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Surendranagar,DHRANGADHRA,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Surendranagar,DASADA,Low,High,High,Medium,Non Saline,Neutral
+Gujarat,Tapi,NIZAR,Low,High,High,High,Non Saline,Neutral
+Gujarat,Tapi,KUKARMUNDA,Low,High,High,High,Non Saline,Neutral
+Gujarat,Tapi,VALOD,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Tapi,UCHCHHAL,Low,High,High,High,Non Saline,Neutral
+Gujarat,Tapi,SONGADH,Low,High,High,High,Non Saline,Neutral
+Gujarat,Tapi,DOLVAN,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Tapi,VYARA,Low,High,High,High,Non Saline,Neutral
+Gujarat,Vadodara,WAGHODIA,Low,Medium,Medium,High,Non Saline,Neutral
+Gujarat,Vadodara,SHINOR,Medium,Medium,Medium,High,Non Saline,Neutral
+Gujarat,Vadodara,PADRA,Low,High,High,High,Non Saline,Neutral
+Gujarat,Vadodara,DESAR,Low,High,High,Medium,Non Saline,Neutral
+Gujarat,Vadodara,VADODARA(CITY AND RURAL),Low,Medium,High,High,Non Saline,Neutral
+Gujarat,Vadodara,DABHOI,Low,Medium,Medium,High,Non Saline,Neutral
+Gujarat,Vadodara,KARJAN,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Vadodara,SAVLI,Low,High,Low,High,Non Saline,Neutral
+Gujarat,Valsad,VAPI,Low,High,High,Medium,Non Saline,Neutral
+Gujarat,Valsad,DHARAMPUR,Low,High,Medium,Medium,Non Saline,Neutral
+Gujarat,Valsad,PARDI,Low,High,High,Low,Non Saline,Neutral
+Gujarat,Valsad,KAPRADA,Low,High,High,Medium,Non Saline,Neutral
+Gujarat,Valsad,UMBERGAON,Low,High,Medium,Medium,Non Saline,Neutral
+Gujarat,Valsad,VALSAD,Low,High,High,Medium,Non Saline,Neutral
+Karnataka,Bagalakote,BADAMI,Low,Medium,Medium,Low,Non Saline,Neutral
+Karnataka,Bagalakote,BAGALKOT,Low,Medium,Medium,Low,Non Saline,Neutral
+Karnataka,Bagalakote,JAMKHANDI,Medium,Medium,Medium,Medium,Non Saline,Neutral
+Karnataka,Bagalakote,HUNGUND,Low,Medium,Medium,Low,Non Saline,Neutral
+Karnataka,Bagalakote,ILKAL,Low,High,Medium,Low,Non Saline,Neutral
+Karnataka,Bagalakote,MUDHOL,Low,Medium,Medium,Low,Non Saline,Neutral
+Karnataka,Bagalakote,GULEDAGUDDA,Low,Medium,Medium,Low,Non Saline,Neutral
+Karnataka,Bagalakote,RABAKAVI BANAHATTI,Medium,High,Medium,Medium,Non Saline,Neutral
+Karnataka,Bagalakote,BILAGI,Medium,Medium,High,Medium,Non Saline,Neutral
+Karnataka,Ballari,KAMPLI,Medium,Medium,Medium,High,Non Saline,Neutral
+Karnataka,Ballari,BALLARI,Medium,Medium,Medium,High,Non Saline,Neutral
+Karnataka,Ballari,SIRUGUPPA,Medium,Medium,Medium,Medium,Non Saline,Neutral
+Karnataka,Ballari,KURUGODU,Medium,Medium,Medium,High,Non Saline,Neutral
+Karnataka,Ballari,SANDUR,Low,High,Low,Medium,Non Saline,Neutral
+Karnataka,Bangalore Rural,DEVANHALLI,Low,High,Medium,Low,Non Saline,Neutral
+Karnataka,Bangalore Rural,DODBALLAPUR,Low,High,High,Low,Non Saline,Neutral
+Karnataka,Bangalore Rural,HOSKOTE,Low,High,Low,Low,Non Saline,Neutral
+Karnataka,Bangalore Rural,NELAMANGALA,Low,High,Medium,Low,Non Saline,Neutral
+Karnataka,Belagavi,GOKAK,Low,Low,High,Low,Non Saline,Neutral
+Karnataka,Belagavi,BYLAHONGAL,Low,Low,Medium,Low,Non Saline,Neutral
+Karnataka,Belagavi,MUDALAGI,Low,Low,High,Low,Non Saline,Neutral
+Karnataka,Belagavi,CHIKODI,Low,High,Medium,Low,Non Saline,Neutral
+Karnataka,Belagavi,HUKERI,Low,Low,Low,Low,Non Saline,Neutral
+Karnataka,Belagavi,NIPPANI,Low,High,Medium,Low,Non Saline,Neutral
+Karnataka,Belagavi,ATHNI,Low,High,Low,Low,Non Saline,Neutral
+Karnataka,Belagavi,KAGAWADA,Low,Medium,Low,Low,Non Saline,Neutral
+Karnataka,Belagavi,RAYBAG,Low,Low,Medium,Low,Non Saline,Neutral
+Karnataka,Belagavi,KHANAPUR,Low,Medium,Low,Low,Non Saline,Neutral
+Karnataka,Belagavi,BELAGAVI,Low,Medium,Low,Low,Non Saline,Neutral
+Karnataka,Belagavi,KITTUR,Low,Medium,Low,Low,Non Saline,Neutral
+Karnataka,Belagavi,SAVADATHI,Low,High,High,Low,Non Saline,Neutral
+Karnataka,Belagavi,YARAGATTI,Low,High,Low,Low,Non Saline,Neutral
+Karnataka,Belagavi,RAMDURG,Low,High,High,Low,Non Saline,Neutral
+Karnataka,Bengaluru urban,BENGALURU SOUTH,Low,High,Medium,Low,Non Saline,Neutral
+Karnataka,Bengaluru urban,YELAHANKA,Low,High,Medium,Low,Non Saline,Neutral
+Karnataka,Bengaluru urban,BENGALURU EAST,Low,High,Medium,Low,Non Saline,Neutral
+Karnataka,Bengaluru urban,ANEKAL,Low,Medium,Medium,Low,Non Saline,Neutral
+Karnataka,Bengaluru urban,BENGALURU NORTH,Low,High,Medium,Low,Non Saline,Neutral
+Karnataka,Bidar,KAMALANAGARA,Medium,Medium,High,Medium,Non Saline,Neutral
+Karnataka,Bidar,BIDAR,Medium,Medium,High,Medium,Non Saline,Neutral
+Karnataka,Bidar,CHITTAGUPPA,Medium,Medium,High,Medium,Non Saline,Neutral
+Karnataka,Bidar,AURAD,Medium,Medium,High,Medium,Non Saline,Neutral
+Karnataka,Bidar,BHALKI,Medium,Medium,High,Medium,Non Saline,Neutral
+Karnataka,Bidar,BASAVAKALYAN,Medium,Medium,High,Medium,Non Saline,Neutral
+Karnataka,Bidar,HUMNABAD,Medium,Medium,High,Medium,Non Saline,Neutral
+Karnataka,Bidar,HULASURU,Medium,Medium,High,Medium,Non Saline,Neutral
+Karnataka,Chamarajanagar,CHAMARAJANAGAR,Medium,High,Medium,Low,Non Saline,Neutral
+Karnataka,Chamarajanagar,GUNDLUPET,Medium,High,Medium,Low,Non Saline,Neutral
+Karnataka,Chamarajanagar,KOLLEGALA,Medium,Medium,Medium,Medium,Non Saline,Neutral
+Karnataka,Chamarajanagar,YELANDUR,Medium,High,Medium,Low,Non Saline,Neutral
+Karnataka,Chamarajanagar,Hanuru,High,High,Low,High,Non Saline,Neutral
+Karnataka,Chikkaballapura,CHINTAMANI,Low,High,Medium,Medium,Non Saline,Neutral
+Karnataka,Chikkaballapura,GAURIBIDANUR,Low,High,Medium,Medium,Non Saline,Neutral
+Karnataka,Chikkaballapura,BAGEPALLI,Low,High,Medium,Medium,Non Saline,Neutral
+Karnataka,Chikkaballapura,SIDLAGHATTA,Low,High,Medium,Medium,Non Saline,Neutral
+Karnataka,Chikkaballapura,GUDIBANDA,Low,High,Medium,Low,Non Saline,Neutral
+Karnataka,Chikkaballapura,CHIKBALLAPUR,Low,High,High,Medium,Non Saline,Neutral
+Karnataka,Chikkamagaluru,MUDIGERE,Low,High,High,High,Non Saline,Neutral
+Karnataka,Chikkamagaluru,KOPPA,Low,High,Low,High,Non Saline,Neutral
+Karnataka,Chikkamagaluru,CHIKKAMAGALURU,Low,High,High,High,Non Saline,Neutral
+Karnataka,Chikkamagaluru,SRINGERI,Medium,High,Low,High,Non Saline,Acidic
+Karnataka,Chikkamagaluru,KADUR,Low,High,Medium,Low,Non Saline,Neutral
+Karnataka,Chikkamagaluru,TARIKERE,Low,High,High,Medium,Non Saline,Neutral
+Karnataka,Chikkamagaluru,AJJAMPURA,Low,High,High,Low,Non Saline,Neutral
+Karnataka,Chikkamagaluru,NARASIMHARAJAPURA,Low,High,Medium,High,Non Saline,Neutral
+Karnataka,Chikkamagaluru,KALASA,Low,Medium,Medium,High,Non Saline,Neutral
+Karnataka,Chitradurga,HOSDURGA,Low,High,Medium,Low,Non Saline,Neutral
+Karnataka,Chitradurga,CHALLAKERE,Low,High,Medium,Low,Non Saline,Neutral
+Karnataka,Chitradurga,MOLAKALMURU,Low,High,Medium,Low,Non Saline,Neutral
+Karnataka,Chitradurga,CHITRADURGA,Low,High,Medium,Low,Non Saline,Neutral
+Karnataka,Chitradurga,HOLALKERE,Low,High,Medium,Low,Non Saline,Neutral
+Karnataka,Chitradurga,HIRIYUR,Low,High,Medium,Low,Non Saline,Neutral
+Karnataka,Dakshina Kannada,BELTANGADI,Low,Medium,Medium,High,Non Saline,Neutral
+Karnataka,Dakshina Kannada,SULYA,Low,Medium,Low,High,Non Saline,Neutral
+Karnataka,Dakshina Kannada,KADABA,Low,Medium,Low,High,Non Saline,Neutral
+Karnataka,Dakshina Kannada,ULLALA,Low,Medium,Medium,High,Non Saline,Neutral
+Karnataka,Dakshina Kannada,PUTTUR,Low,High,Medium,High,Non Saline,Neutral
+Karnataka,Dakshina Kannada,MANGALURU,Low,Medium,Medium,High,Non Saline,Neutral
+Karnataka,Dakshina Kannada,MUDUBIDARE,Low,High,Medium,High,Non Saline,Neutral
+Karnataka,Dakshina Kannada,BANTVAL,Low,Medium,Medium,High,Non Saline,Neutral
+Karnataka,Dakshina Kannada,MULKI,Low,Medium,Medium,High,Non Saline,Neutral
+Karnataka,Davanagere,DAVANAGERE,Medium,High,High,High,Non Saline,Neutral
+Karnataka,Davanagere,HONNALI,Medium,High,High,High,Non Saline,Neutral
+Karnataka,Davanagere,CHANNAGIRI,Medium,High,High,Medium,Non Saline,Neutral
+Karnataka,Davanagere,NYAMATHI,Medium,High,High,High,Non Saline,Neutral
+Karnataka,Davanagere,HARIHARA,Medium,High,High,High,Non Saline,Neutral
+Karnataka,Davanagere,JAGALUR,Medium,High,High,High,Non Saline,Neutral
+Karnataka,Dharwad,ANNIGERI,Medium,Medium,High,Medium,Non Saline,Neutral
+Karnataka,Dharwad,KALGHATGI,Medium,Medium,Medium,Medium,Non Saline,Neutral
+Karnataka,Dharwad,DHARWAD,Medium,Medium,High,Medium,Non Saline,Neutral
+Karnataka,Dharwad,KUNDGOL,Medium,Medium,Medium,Medium,Non Saline,Neutral
+Karnataka,Dharwad,HUBBALLI,Medium,Medium,High,Medium,Non Saline,Neutral
+Karnataka,Dharwad,NAVALGUND,Medium,Medium,Medium,Medium,Non Saline,Neutral
+Karnataka,Dharwad,ALNAVAR,Medium,Medium,Medium,High,Non Saline,Neutral
+Karnataka,Gadag,MUNDARAGI,Medium,Medium,Medium,Medium,Saline,Neutral
+Karnataka,Gadag,GADAG,Medium,Medium,Medium,Medium,Saline,Neutral
+Karnataka,Gadag,RON,Medium,Medium,High,Medium,Saline,Neutral
+Karnataka,Gadag,SHIRAHATTI,Medium,Medium,High,Medium,Saline,Neutral
+Karnataka,Gadag,GAJENDRAGAD,Medium,Medium,High,Medium,Saline,Neutral
+Karnataka,Gadag,LAXMESHWAR,Medium,Medium,Medium,Medium,Saline,Neutral
+Karnataka,Gadag,NARAGUND,Medium,Medium,Medium,Medium,Saline,Neutral
+Karnataka,Hassan,ARSIKERE,Medium,High,Medium,Medium,Non Saline,Neutral
+Karnataka,Hassan,SAKALESHPUR,Medium,High,Medium,High,Non Saline,Neutral
+Karnataka,Hassan,ALUR,Medium,High,Medium,High,Non Saline,Neutral
+Karnataka,Hassan,CHANNARAYAPATNA,Medium,High,Medium,Medium,Non Saline,Neutral
+Karnataka,Hassan,ARKALGUD,Medium,High,Medium,Medium,Non Saline,Neutral
+Karnataka,Hassan,HOLENARSIPUR,Medium,High,Medium,Medium,Non Saline,Neutral
+Karnataka,Hassan,BELUR,Medium,High,Medium,Medium,Non Saline,Neutral
+Karnataka,Hassan,HASSAN,Medium,High,Medium,Medium,Non Saline,Neutral
+Karnataka,Haveri,RANEBENNUR,Medium,Medium,Medium,Medium,Non Saline,Neutral
+Karnataka,Haveri,RATTIHALLI,Medium,Medium,Medium,Medium,Non Saline,Neutral
+Karnataka,Haveri,HAVERI,Medium,Medium,Medium,Medium,Non Saline,Neutral
+Karnataka,Haveri,HIREKERUR,Medium,Medium,Medium,High,Non Saline,Neutral
+Karnataka,Haveri,SAVANUR,Low,Medium,Medium,Medium,Non Saline,Neutral
+Karnataka,Haveri,SHIGGAON,Medium,Medium,Medium,High,Non Saline,Neutral
+Karnataka,Haveri,BYADGI,Medium,Medium,Medium,Medium,Non Saline,Neutral
+Karnataka,Haveri,HANAGAL,Medium,Medium,Medium,High,Non Saline,Neutral
+Karnataka,Kalaburagi,AFZALPUR,Low,High,High,Low,Non Saline,Neutral
+Karnataka,Kalaburagi,KALAGI,Low,High,High,Low,Non Saline,Neutral
+Karnataka,Kalaburagi,CHITAPUR,Low,High,High,Low,Non Saline,Neutral
+Karnataka,Kalaburagi,SHABAD,Low,High,High,Low,Non Saline,Neutral
+Karnataka,Kalaburagi,CHINCHOLI,Low,High,High,Low,Non Saline,Neutral
+Karnataka,Kalaburagi,JEVARGI,Low,High,High,Low,Non Saline,Neutral
+Karnataka,Kalaburagi,ALAND,Low,High,High,Low,Non Saline,Neutral
+Karnataka,Kalaburagi,KALABURAGI,Low,High,High,Low,Non Saline,Neutral
+Karnataka,Kalaburagi,SEDAM,Low,High,High,Low,Non Saline,Neutral
+Karnataka,Kalaburagi,KAMALAPUR,Low,High,High,Low,Non Saline,Neutral
+Karnataka,Kalaburagi,YADRAMI,Low,High,High,Low,Non Saline,Neutral
+Karnataka,Kodagu,SOMVARPET,Medium,High,Medium,High,Non Saline,Neutral
+Karnataka,Kodagu,PONNAMPET,Medium,High,Medium,High,Non Saline,Neutral
+Karnataka,Kodagu,MADIKERI,Medium,High,Medium,Medium,Non Saline,Neutral
+Karnataka,Kodagu,KUSHALANAGAR,Medium,High,Medium,High,Non Saline,Neutral
+Karnataka,Kodagu,VIRAJPET,Medium,High,Medium,Medium,Non Saline,Neutral
+Karnataka,Kolar,MULBAGAL,Low,High,Low,Low,Non Saline,Neutral
+Karnataka,Kolar,MALUR,Low,High,Medium,Low,Non Saline,Neutral
+Karnataka,Kolar,KOLAR,Low,High,Medium,Low,Non Saline,Neutral
+Karnataka,Kolar,BANGARAPET,Low,High,Medium,Low,Non Saline,Neutral
+Karnataka,Kolar,K G F,Low,High,Medium,Low,Non Saline,Neutral
+Karnataka,Kolar,SRINIVASPUR,Low,High,Medium,Low,Non Saline,Neutral
+Karnataka,Koppal,KOPPAL,High,High,High,High,Non Saline,Neutral
+Karnataka,Koppal,KARATAGI,High,High,High,High,Non Saline,Neutral
+Karnataka,Koppal,GANGAVATHI,High,High,High,High,Non Saline,Neutral
+Karnataka,Koppal,KANAKAGIRI,Low,High,High,High,Non Saline,Neutral
+Karnataka,Koppal,YELBURGA,Low,High,Medium,High,Non Saline,Neutral
+Karnataka,Koppal,KUKUNOOR,High,High,High,High,Non Saline,Neutral
+Karnataka,Koppal,KUSHTAGI,High,High,High,High,Non Saline,Neutral
+Karnataka,Mandya,KRISHNARAJPET,Low,High,Medium,Low,Non Saline,Neutral
+Karnataka,Mandya,MANDYA,Low,High,Medium,High,Non Saline,Neutral
+Karnataka,Mandya,SHRIRANGAPATTANA,Low,High,High,High,Non Saline,Neutral
+Karnataka,Mandya,PANDAVAPURA,Low,High,Medium,Low,Non Saline,Neutral
+Karnataka,Mandya,NAGAMANGALA,Low,High,Medium,Low,Non Saline,Neutral
+Karnataka,Mandya,MALVALLI,Low,High,Medium,Medium,Non Saline,Neutral
+Karnataka,Mandya,MADDUR,Low,High,High,High,Non Saline,Neutral
+Karnataka,Mysuru,HEGGADADEVANKOTE,Low,High,Medium,Medium,Non Saline,Neutral
+Karnataka,Mysuru,SARAGURU,Low,High,High,Low,Non Saline,Neutral
+Karnataka,Mysuru,NANJANGUD,Low,High,Medium,Low,Non Saline,Neutral
+Karnataka,Mysuru,SALIGRAMA,Low,High,High,Low,Non Saline,Neutral
+Karnataka,Mysuru,HUNSUR,Low,High,Medium,Low,Non Saline,Neutral
+Karnataka,Mysuru,TIRUMAKUDAL-NARSIPUR,Low,High,Medium,High,Non Saline,Neutral
+Karnataka,Mysuru,MYSURU,Low,High,Medium,Medium,Non Saline,Neutral
+Karnataka,Mysuru,PIRIYAPATNA,Low,High,High,Medium,Non Saline,Neutral
+Karnataka,Mysuru,KRISHNARAJANAGARA,Low,High,High,Medium,Non Saline,Neutral
+Karnataka,Raichur,MASKI,Low,Medium,Medium,Low,Saline,Neutral
+Karnataka,Raichur,MANVI,Low,Medium,Medium,Low,Saline,Neutral
+Karnataka,Raichur,SIRAWARA,Low,Medium,Medium,Low,Saline,Neutral
+Karnataka,Raichur,SINDHANUR,Low,Medium,Medium,Low,Saline,Neutral
+Karnataka,Raichur,RAICHUR,Low,Medium,Medium,Low,Saline,Neutral
+Karnataka,Raichur,LINGSUGUR,Low,Medium,Medium,Low,Saline,Neutral
+Karnataka,Raichur,DEVADURGA,Low,Medium,Medium,Low,Saline,Neutral
+Karnataka,Ramangara,CHANNAPATNA,Medium,High,Medium,Medium,Non Saline,Neutral
+Karnataka,Ramangara,MAGADI,Medium,High,Medium,Low,Non Saline,Neutral
+Karnataka,Ramangara,RAMANAGARA,Medium,High,Medium,Medium,Non Saline,Neutral
+Karnataka,Ramangara,KANAKAPURA,Medium,High,Medium,Medium,Non Saline,Neutral
+Karnataka,Ramangara,HAROHALLI,Medium,High,Medium,Medium,Non Saline,Neutral
+Karnataka,Shivamogga,BHADRAVATI,Low,High,High,High,Non Saline,Neutral
+Karnataka,Shivamogga,SORAB,Low,Low,Medium,High,Non Saline,Neutral
+Karnataka,Shivamogga,SHIKARPUR,Low,High,High,High,Non Saline,Neutral
+Karnataka,Shivamogga,SAGAR,Low,Low,Medium,High,Non Saline,Neutral
+Karnataka,Shivamogga,SHIVAMOGGA,Low,High,High,High,Non Saline,Neutral
+Karnataka,Shivamogga,HOSANAGARA,Low,High,Medium,High,Non Saline,Neutral
+Karnataka,Shivamogga,TIRTHAHALLI,Low,High,Medium,High,Non Saline,Neutral
+Karnataka,Tumakuru,SIRA,Low,High,Medium,Low,Non Saline,Neutral
+Karnataka,Tumakuru,TURUVEKERE,Low,High,High,Low,Non Saline,Neutral
+Karnataka,Tumakuru,GUBBI,Low,High,Medium,Low,Non Saline,Neutral
+Karnataka,Tumakuru,MADHUGIRI,Low,High,High,Low,Non Saline,Neutral
+Karnataka,Tumakuru,CHIKNAYAKANHALLI,Low,High,Medium,Low,Non Saline,Neutral
+Karnataka,Tumakuru,TUMAKURU,Low,High,Medium,Low,Non Saline,Neutral
+Karnataka,Tumakuru,PAVAGADA,Low,High,Medium,Low,Non Saline,Neutral
+Karnataka,Tumakuru,KUNIGAL,Low,High,Medium,Low,Non Saline,Neutral
+Karnataka,Tumakuru,KORATAGERE,Low,High,High,Low,Non Saline,Neutral
+Karnataka,Tumakuru,TIPTUR,Low,High,Medium,Low,Non Saline,Neutral
+Karnataka,Udupi,BRAHMAVARA,Low,High,Medium,High,Non Saline,Acidic
+Karnataka,Udupi,KARKAL,Low,High,Medium,High,Non Saline,Acidic
+Karnataka,Udupi,KAPU,Medium,Medium,Medium,High,Non Saline,Acidic
+Karnataka,Udupi,KUNDAPURA,Low,High,Medium,High,Non Saline,Acidic
+Karnataka,Udupi,UDUPI,Low,High,Low,High,Non Saline,Acidic
+Karnataka,Udupi,BAINDURU,Low,High,Medium,High,Non Saline,Acidic
+Karnataka,Udupi,HEBRI,Low,Medium,Low,High,Non Saline,Acidic
+Karnataka,Uttara Kannada,MUNDGOD,Low,High,Medium,High,Non Saline,Neutral
+Karnataka,Uttara Kannada,SUPA,Low,Medium,High,High,Non Saline,Neutral
+Karnataka,Uttara Kannada,SIRSI,Low,High,Low,High,Non Saline,Neutral
+Karnataka,Uttara Kannada,SIDDAPUR,Low,Medium,Low,High,Non Saline,Neutral
+Karnataka,Uttara Kannada,KUMTA,Low,High,Low,High,Non Saline,Neutral
+Karnataka,Uttara Kannada,YELLAPUR,Low,Low,Low,High,Non Saline,Neutral
+Karnataka,Uttara Kannada,BHATKAL,Low,High,Low,High,Non Saline,Neutral
+Karnataka,Uttara Kannada,ANKOLA,Low,Medium,Low,High,Non Saline,Neutral
+Karnataka,Uttara Kannada,HONAVAR,Low,High,High,High,Non Saline,Neutral
+Karnataka,Uttara Kannada,DANDELI,Low,Low,Medium,Medium,Non Saline,Neutral
+Karnataka,Uttara Kannada,HALIYAL,Low,High,High,High,Non Saline,Neutral
+Karnataka,Uttara Kannada,KARWAR,Low,High,High,High,Non Saline,Neutral
+Karnataka,Vijayanagar,HADAGALLI,Medium,Medium,Low,Medium,Non Saline,Neutral
+Karnataka,Vijayanagar,KUDLIGI,Low,Medium,Medium,Low,Non Saline,Neutral
+Karnataka,Vijayanagar,HARAPPANAHALLI,Low,Medium,Low,Medium,Non Saline,Neutral
+Karnataka,Vijayanagar,HOSAPETE,Low,Low,Low,Medium,Non Saline,Neutral
+Karnataka,Vijayanagar,HAGARIBOMMANAHALLI,Medium,Medium,Medium,Medium,Non Saline,Neutral
+Karnataka,Vijayanagar,KOTTUR,Low,High,Medium,Low,Non Saline,Neutral
+Karnataka,Vijayapura,MUDDEBIHAL,Low,High,Medium,Low,Non Saline,Neutral
+Karnataka,Vijayapura,ALMEL,Low,High,Medium,Low,Non Saline,Neutral
+Karnataka,Vijayapura,THALIKOTI,Low,High,Medium,Low,Non Saline,Neutral
+Karnataka,Vijayapura,DEVARA HIPPARAGI,Low,High,Medium,Low,Non Saline,Neutral
+Karnataka,Vijayapura,KOLHAR,Low,High,High,Low,Non Saline,Neutral
+Karnataka,Vijayapura,CHADACHAN,Low,High,High,Low,Non Saline,Neutral
+Karnataka,Vijayapura,VIJAYAPURA,Low,High,High,Low,Non Saline,Neutral
+Karnataka,Vijayapura,BASAVANA BAGEWADI,Low,High,Medium,Low,Non Saline,Neutral
+Karnataka,Vijayapura,INDI,Low,High,High,Low,Non Saline,Neutral
+Karnataka,Vijayapura,NIDAGUNDI,Low,High,Medium,Low,Non Saline,Neutral
+Karnataka,Vijayapura,BABALESHWAR,Low,High,Medium,Low,Non Saline,Neutral
+Karnataka,Vijayapura,THIKOTA,Low,High,Medium,Low,Non Saline,Neutral
+Karnataka,Vijayapura,SINDAGI,Low,High,Medium,Low,Non Saline,Neutral
+Karnataka,Yadgir,SHAHAPUR,Low,High,High,Medium,Non Saline,Neutral
+Karnataka,Yadgir,WADAGERA,Low,Medium,High,Medium,Non Saline,Neutral
+Karnataka,Yadgir,GURUMITKAL,Low,High,High,Medium,Non Saline,Neutral
+Karnataka,Yadgir,YADGIR,Low,High,High,Medium,Non Saline,Neutral
+Karnataka,Yadgir,HUNASAGI,Low,High,High,Medium,Non Saline,Neutral
+Karnataka,Yadgir,SHORAPUR,Low,High,High,Medium,Non Saline,Neutral
+Tamil Nadu,Ariyalur,ANDIMADAM,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Ariyalur,ARIYALUR,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Ariyalur,THIRUMANUR,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Ariyalur,T. PALUR,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Ariyalur,SENDURAI,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Ariyalur,JAYAMKONDAM,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Chengalpattu,MADURANTAKAM,Low,Low,Low,Low,Non Saline,Neutral
+Tamil Nadu,Chengalpattu,THIRUPORUR,Low,Low,Low,Low,Non Saline,Neutral
+Tamil Nadu,Chengalpattu,CHITHAMUR,Low,Low,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Chengalpattu,TIRUKKALUKUNRAM,Low,Low,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Chengalpattu,ACHARAPAKKAM,Low,Low,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Chengalpattu,KATTANKOLATHUR,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Chengalpattu,LATHUR,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Chengalpattu,ST.THOMAS MOUNT,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Coimbatore,PERIYANAYAKKANPALAYAM,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Coimbatore,POLLACHI NORTH,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Coimbatore,THONDAMUTHUR,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Coimbatore,MADUKKARAI,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Coimbatore,SULTANPET,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Coimbatore,KINATHUKADAVU,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Coimbatore,KARAMADAI,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Coimbatore,POLLACHI SOUTH,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Coimbatore,SARCARSAMAKULAM,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Coimbatore,ANNUR,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Coimbatore,ANAMALAI,Low,Low,High,Low,Non Saline,Neutral
+Tamil Nadu,Coimbatore,SULUR,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Cuddalore,CUDDALORE,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Cuddalore,KATTUMANNARKOIL,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Cuddalore,MANGALUR,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Cuddalore,PANRUTI,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Cuddalore,KEERAPALAYAM,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Cuddalore,KURINJIPADI,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Cuddalore,ANNAGRAMAM,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Cuddalore,VRIDDHACHALAM,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Cuddalore,PARANGIPETTAI,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Cuddalore,KAMMAPURAM,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Cuddalore,MELBHUVANAGIRI,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Cuddalore,KOMARATCHI,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Cuddalore,NALLUR,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Cuddalore,SRIMUSHNAM,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Dharmapuri,KARIMANGALAM,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Dharmapuri,PAPPIREDDIPATTY,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Dharmapuri,DHARMAPURI,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Dharmapuri,PALAKKODU,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Dharmapuri,MORAPPUR,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Dharmapuri,NALLAMPALLI,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Dharmapuri,HARUR,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Dharmapuri,KADATHUR,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Dharmapuri,PENNAGARAM,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Dharmapuri,ERIYUR,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Dindigul,NILAKOTTAI,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Dindigul,ATHOOR,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Dindigul,VATTALKUNDU,Low,Low,High,Low,Non Saline,Neutral
+Tamil Nadu,Dindigul,VEDASANDUR,Low,Low,High,Low,Non Saline,Neutral
+Tamil Nadu,Dindigul,REDDIYARCHATIRAM,Low,Low,High,Low,Non Saline,Neutral
+Tamil Nadu,Dindigul,THOPPAMPATTI,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Dindigul,ODDANCHATRAM,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Dindigul,VADAMADURAI,Low,Low,High,Low,Non Saline,Neutral
+Tamil Nadu,Dindigul,SHANARPATTI,Low,Low,High,Low,Non Saline,Neutral
+Tamil Nadu,Dindigul,GUZILIAMPARAI,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Dindigul,DINDIGUL,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Dindigul,PALANI,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Dindigul,NATTAM,Low,Low,High,Low,Non Saline,Neutral
+Tamil Nadu,Dindigul,KODAIKANAL,Low,Medium,High,Low,Non Saline,Acidic
+Tamil Nadu,Erode,NAMBIYUR,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Erode,PERUNDURAI,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Erode,BHAVANI,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Erode,CHENNIMALAI,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Erode,ERODE,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Erode,GOPICHETTIPALAIYAM,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Erode,ANDIYUR,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Erode,MODAKURICHI,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Erode,KODUMUDI,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Erode,AMMAPET,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Erode,THOOCKANAICKENPALAIYAM,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Erode,BHAVANISAGAR,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Erode,TALAVADI,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Erode,SATYAMANGALAM,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Kallakurichi,THIAGADURGAM,Low,High,High,Low,Non Saline,Neutral
+Tamil Nadu,Kallakurichi,CHINNASALEM,Low,High,High,Low,Non Saline,Neutral
+Tamil Nadu,Kallakurichi,TIRUNAVALUR,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Kallakurichi,KALRAYANHILLS,Low,High,High,Low,Non Saline,Neutral
+Tamil Nadu,Kallakurichi,ULUNDURPET,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Kallakurichi,RISHIVANDIAM,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Kallakurichi,SANKARAPURAM,Low,High,High,Low,Non Saline,Neutral
+Tamil Nadu,Kallakurichi,KALLAKKURICHI,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Kallakurichi,TIRUKKOYILUR,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Kanchipuram,KANCHIPURAM,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Kanchipuram,SRIPERUMBUDUR,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Kanchipuram,WALAJABAD,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Kanchipuram,UTTIRAMERUR,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Kanchipuram,KUNNATTUR,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Kanniyakumari,RAJAKKAMANGALAM,Low,High,Low,Low,Non Saline,Neutral
+Tamil Nadu,Kanniyakumari,MELPURAM,Low,High,Medium,Low,Non Saline,Acidic
+Tamil Nadu,Kanniyakumari,KURUNTHANCODE,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Kanniyakumari,AGASTISWARAM,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Kanniyakumari,THACKALAI,Low,High,High,Low,Non Saline,Neutral
+Tamil Nadu,Kanniyakumari,KILLIYOOR,Low,High,Medium,Low,Non Saline,Acidic
+Tamil Nadu,Kanniyakumari,MUNCHIRA,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Kanniyakumari,THIRUVATTAR,Low,High,High,Low,Non Saline,Neutral
+Tamil Nadu,Kanniyakumari,THOVALA,Low,High,Low,Low,Non Saline,Neutral
+Tamil Nadu,Karur,THOGAIMALAI,Low,Low,High,Low,Non Saline,Neutral
+Tamil Nadu,Karur,KARUR,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Karur,KADAVUR,Low,Low,High,Low,Non Saline,Neutral
+Tamil Nadu,Karur,THANTHONI,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Karur,ARAVAKURICHI,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Karur,KULITTALAI,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Karur,K.PARAMATHY,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Karur,KRISHNARAYAPURAM,Low,High,High,Low,Non Saline,Neutral
+Tamil Nadu,Krishnagiri,BARGUR,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Krishnagiri,KRISHNAGIRI,Low,High,High,Low,Non Saline,Neutral
+Tamil Nadu,Krishnagiri,SHOOLAGIRI,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Krishnagiri,MATHUR,Low,Low,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Krishnagiri,UTHANGARAI,Low,Low,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Krishnagiri,VEPPANAPALLI,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Krishnagiri,KELAMANGALAM,Low,Low,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Krishnagiri,KAVERIPATTINAM,Low,High,High,Low,Non Saline,Neutral
+Tamil Nadu,Krishnagiri,HOSUR,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Krishnagiri,THALLY,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Madurai,KALLIKUDI,Low,Low,High,Low,Non Saline,Neutral
+Tamil Nadu,Madurai,USILAMPATTI,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Madurai,TIRUPPARANGUNRAM,Low,High,High,Medium,Non Saline,Neutral
+Tamil Nadu,Madurai,TIRUMANGALAM,Low,Medium,High,Medium,Non Saline,Neutral
+Tamil Nadu,Madurai,MELUR,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Madurai,MADURAI WEST,Low,High,Medium,Medium,Non Saline,Neutral
+Tamil Nadu,Madurai,KOTTAMPATTI,Low,High,High,Medium,Non Saline,Neutral
+Tamil Nadu,Madurai,ALANGANALLUR,Low,High,High,Low,Non Saline,Neutral
+Tamil Nadu,Madurai,SEDAPATTI,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Madurai,T.KALLUPATTI,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Madurai,CHELLAMPATTI,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Madurai,MADURAI EAST,Low,High,High,Medium,Non Saline,Neutral
+Tamil Nadu,Madurai,VADIPATTI,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Mayiladuthurai,KUTTALAM,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Mayiladuthurai,SIRKAZHI,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Mayiladuthurai,KOLLIDAM,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Mayiladuthurai,MAYILADUTHURAI,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Mayiladuthurai,SEMBANAR KOIL,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Nagapattinam,VEDARANYAM,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Nagapattinam,KEELAIYUR,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Nagapattinam,THALANAYAR,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Nagapattinam,THIRUMARUGAL,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Nagapattinam,NAGAPPATTINAM,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Nagapattinam,KILVELUR,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Namakkal,PUDUCHATRAM,Low,High,High,Low,Non Saline,Neutral
+Tamil Nadu,Namakkal,TIRUCHENGODU,Low,High,High,Low,Non Saline,Neutral
+Tamil Nadu,Namakkal,NAMAKKAL,Low,High,High,Low,Non Saline,Neutral
+Tamil Nadu,Namakkal,ERUMAPATTY,Low,High,High,Low,Non Saline,Neutral
+Tamil Nadu,Namakkal,PARAMATHY,Low,High,High,Low,Non Saline,Alkaline
+Tamil Nadu,Namakkal,PALLIPALAYAM,Low,High,High,Low,Non Saline,Neutral
+Tamil Nadu,Namakkal,RASIPURAM,Low,High,High,Low,Non Saline,Neutral
+Tamil Nadu,Namakkal,KOLLI HILLS,Low,High,High,Medium,Non Saline,Acidic
+Tamil Nadu,Namakkal,MALLASAMUDRAM,Low,Medium,High,Low,Non Saline,Alkaline
+Tamil Nadu,Namakkal,ELACIPALAYAM,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Namakkal,VENNANDUR,Low,High,High,Low,Non Saline,Neutral
+Tamil Nadu,Namakkal,KABILAMALAI,Low,High,High,Low,Non Saline,Neutral
+Tamil Nadu,Namakkal,NAMAGIRIPET,Low,High,High,Low,Non Saline,Neutral
+Tamil Nadu,Namakkal,SENDAMANGALAM,Low,High,High,Low,Non Saline,Neutral
+Tamil Nadu,Namakkal,MOHANUR,Low,High,High,Low,Non Saline,Neutral
+Tamil Nadu,Perambalur,VEPPANTHATTAI,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Perambalur,VEPPUR,Low,Low,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Perambalur,ALATHUR,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Perambalur,PERAMBALUR,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Pudukkottai,TIRUMAYAM,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Pudukkottai,THIRUVARANKULAM,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Pudukkottai,ARANTANGI,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Pudukkottai,GANDARAVAKOTTAI,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Pudukkottai,PONNAMARAVATI,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Pudukkottai,VIRALIMALAI,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Pudukkottai,ANNAVASAL,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Pudukkottai,PUDUKKOTTAI,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Pudukkottai,AVADAIYARKOVIL,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Pudukkottai,ARIMALAM,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Pudukkottai,MANALMELKUDI,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Pudukkottai,KUNNANDARKOIL,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Pudukkottai,KARAMBAKUDI,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Ramanathapuram,PARAMAKKUDI,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Ramanathapuram,MUDUKULATHUR,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Ramanathapuram,TIRUVADANAI,Low,High,High,Low,Non Saline,Neutral
+Tamil Nadu,Ramanathapuram,TIRUPPULLANI,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Ramanathapuram,BOGALUR,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Ramanathapuram,MANDAPAM,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Ramanathapuram,RAMANATHAPURAM,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Ramanathapuram,RAJASINGAMANGALAM,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Ramanathapuram,KADALADI,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Ramanathapuram,KAMUDI,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Ramanathapuram,NAINARKOIL,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Ranipet,SHOLINGHUR,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Ranipet,KAVERIPAKKAM,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Ranipet,NEMILI,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Ranipet,ARAKKONAM,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Ranipet,ARCOT,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Ranipet,TIMIRI,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Ranipet,WALAJAPET,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Salem,SANKARI,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Salem,GANGAVALLI,Low,Low,High,Low,Non Saline,Neutral
+Tamil Nadu,Salem,KADAIYAMPATTY,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Salem,MECHERI,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Salem,ATTUR,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Salem,AYODHIYAPATTINAM,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Salem,VALAPADY,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Salem,SALEM,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Salem,OMALUR,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Salem,YERCAUD,Low,High,High,Low,Non Saline,Neutral
+Tamil Nadu,Salem,KONGANAPURAM,Low,Low,High,Low,Non Saline,Neutral
+Tamil Nadu,Salem,VEERAPANDI,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Salem,KOLATHUR,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Salem,PANAMARATHUPATTI,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Salem,IDAPPADI,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Salem,NANGAVALLI,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Salem,MACDONALDS CHOULTRY,Low,Low,High,Low,Non Saline,Neutral
+Tamil Nadu,Salem,TALAVASAL,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Salem,PEDDANAICKENPALAYAM,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Salem,TARAMANGALAM,Low,Low,High,Low,Non Saline,Neutral
+Tamil Nadu,Sivaganga,TIRUPPATHUR,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Sivaganga,KALAIYARKOIL,Low,High,High,Low,Non Saline,Neutral
+Tamil Nadu,Sivaganga,TIRUPPUVANAM,Low,Low,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Sivaganga,KANNANKUDI,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Sivaganga,MANAMADURAI,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Sivaganga,SIVAGANGA,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Sivaganga,ILAYANKUDI,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Sivaganga,DEVAKOTTAI,Low,Low,High,Low,Non Saline,Neutral
+Tamil Nadu,Sivaganga,SAKKOTTAI,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Sivaganga,KALLAL,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Sivaganga,S. PUDUR,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Sivaganga,SINGAMPUNARI,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Tenkasi,SANKARANKOVIL,Low,High,High,Low,Non Saline,Neutral
+Tamil Nadu,Tenkasi,KURUVIKULAM,Low,High,High,Low,Non Saline,Neutral
+Tamil Nadu,Tenkasi,MELANEELITHANALLUR,Low,High,High,Low,Non Saline,Neutral
+Tamil Nadu,Tenkasi,KADAIYANALLUR,Low,High,High,Low,Non Saline,Neutral
+Tamil Nadu,Tenkasi,ALANGULAM,Low,High,High,Low,Non Saline,Neutral
+Tamil Nadu,Tenkasi,KEELAPAVOOR,Low,High,High,Low,Non Saline,Neutral
+Tamil Nadu,Tenkasi,VASUDEVANALLUR,Low,High,High,Low,Non Saline,Neutral
+Tamil Nadu,Tenkasi,TENKASI,Low,High,High,Low,Non Saline,Neutral
+Tamil Nadu,Tenkasi,SHENCOTTAH,Low,High,High,Low,Non Saline,Neutral
+Tamil Nadu,Tenkasi,KADAYAM,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Thanjavur,THIRUPPANANDAL,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Thanjavur,THIRUVONAM,Low,Low,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Thanjavur,PERAVURANI,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Thanjavur,KUMBAKONAM,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Thanjavur,PATTUKKOTTAI,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Thanjavur,THANJAVUR,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Thanjavur,MADUKKUR,Low,Low,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Thanjavur,BUDALUR,Low,Low,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Thanjavur,ORATTANADU,Low,Low,Low,Low,Non Saline,Neutral
+Tamil Nadu,Thanjavur,AMMAPETTAI,Low,Low,Low,Low,Non Saline,Neutral
+Tamil Nadu,Thanjavur,PAPANASAM,Low,Low,High,Low,Non Saline,Neutral
+Tamil Nadu,Thanjavur,SETHUBHAVACHATRAM,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Thanjavur,THIRUVAIYARU,Low,Low,High,Low,Non Saline,Neutral
+Tamil Nadu,Thanjavur,TIRUVIDAIMARUDUR,Low,High,High,Low,Non Saline,Neutral
+Tamil Nadu,The Nilgiris,KOTAGIRI,Low,High,High,High,Non Saline,Neutral
+Tamil Nadu,The Nilgiris,UDHAGAMANDALAM,Medium,High,High,High,Non Saline,Neutral
+Tamil Nadu,The Nilgiris,GUDALUR,Low,High,Medium,High,Non Saline,Acidic
+Tamil Nadu,The Nilgiris,COONOOR,Low,High,High,Low,Non Saline,Neutral
+Tamil Nadu,Theni,ANDIPATTI,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Theni,PERIYAKULAM,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Theni,UTTAMAPALAIYAM,Low,High,High,Low,Non Saline,Neutral
+Tamil Nadu,Theni,THENI,Low,High,High,Low,Non Saline,Neutral
+Tamil Nadu,Theni,CHINNAMANUR,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Theni,BODINAYAKKANUR,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Theni,KADAMALAIKUNDRU MYLADUMPARAI,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Theni,KAMBAM,Low,High,High,Low,Non Saline,Neutral
+Tamil Nadu,Thiruvallur,KADAMBATHUR,Low,High,Low,Low,Non Saline,Neutral
+Tamil Nadu,Thiruvallur,POONDI,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Thiruvallur,MINJUR,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Thiruvallur,TIRUVELANGADU,Low,High,Low,Low,Non Saline,Neutral
+Tamil Nadu,Thiruvallur,POONAMALLEE,Low,High,Low,Low,Non Saline,Acidic
+Tamil Nadu,Thiruvallur,PALLIPATTU,Low,High,Low,Low,Non Saline,Neutral
+Tamil Nadu,Thiruvallur,VILLIVAKKAM,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Thiruvallur,TIRUVALLUR,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Thiruvallur,SHOLAVARAM,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Thiruvallur,R.K.PET,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Thiruvallur,GUMMIDIPUNDI,Low,Medium,Low,Low,Non Saline,Neutral
+Tamil Nadu,Thiruvallur,ELLAPURAM,Low,High,Low,Low,Non Saline,Neutral
+Tamil Nadu,Thiruvallur,TIRUTTANI,Low,Low,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Thiruvallur,PUZHAL,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Thiruvarur,KOTTUR,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Thiruvarur,THIRUVARUR,Low,High,High,Low,Non Saline,Neutral
+Tamil Nadu,Thiruvarur,KORADACHERRY,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Thiruvarur,MANNARGUDI,Low,High,High,Low,Non Saline,Neutral
+Tamil Nadu,Thiruvarur,NANNILAM,Low,High,High,Low,Non Saline,Neutral
+Tamil Nadu,Thiruvarur,TIRUTTURAIPPUNDI,Low,Medium,Low,Low,Non Saline,Neutral
+Tamil Nadu,Thiruvarur,NIDAMANGALAM,Low,High,High,Low,Non Saline,Neutral
+Tamil Nadu,Thiruvarur,MUTHUPETTAI,Low,Medium,Low,Low,Non Saline,Neutral
+Tamil Nadu,Thiruvarur,VALANGAIMAN,Low,High,High,Low,Non Saline,Neutral
+Tamil Nadu,Thiruvarur,KODAVASAL,Low,High,High,Low,Non Saline,Neutral
+Tamil Nadu,Tiruchippalli,TURAIYUR,Low,Low,High,Low,Non Saline,Neutral
+Tamil Nadu,Tiruchippalli,MANIKANDAM,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Tiruchippalli,THOTTIAM,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Tiruchippalli,ANDANALLUR,Low,High,High,Low,Non Saline,Neutral
+Tamil Nadu,Tiruchippalli,MANACHANELLUR,Low,Low,High,Low,Non Saline,Neutral
+Tamil Nadu,Tiruchippalli,THIRUVERAMBUR,Low,High,High,Low,Non Saline,Neutral
+Tamil Nadu,Tiruchippalli,LALGUDI,Low,High,High,Low,Non Saline,Neutral
+Tamil Nadu,Tiruchippalli,TATTAYYANGARPETTAI,Low,Low,High,Low,Non Saline,Neutral
+Tamil Nadu,Tiruchippalli,MARUNGAPURI,Low,High,High,Low,Non Saline,Neutral
+Tamil Nadu,Tiruchippalli,UPPILIAPURAM,Low,High,High,Low,Non Saline,Neutral
+Tamil Nadu,Tiruchippalli,MANAPPARAI,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Tiruchippalli,PULLAMBADI,Low,Low,High,Low,Non Saline,Neutral
+Tamil Nadu,Tiruchippalli,MUSIRI,Low,High,High,Low,Non Saline,Neutral
+Tamil Nadu,Tiruchippalli,VAIYAMPATTI,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Tirunelveli,CHERANMAHADEVI,Low,High,Medium,High,Non Saline,Neutral
+Tamil Nadu,Tirunelveli,MANUR,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Tirunelveli,PALAYAMKOTTAI,Low,Medium,High,Medium,Non Saline,Neutral
+Tamil Nadu,Tirunelveli,AMBASAMUDRAM,Low,High,Low,Medium,Non Saline,Neutral
+Tamil Nadu,Tirunelveli,PAPPAKUDI,Low,High,High,Medium,Non Saline,Neutral
+Tamil Nadu,Tirunelveli,NANGUNERI,Low,Low,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Tirunelveli,KALAKADU,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Tirunelveli,VALLIYOOR,Low,High,High,Low,Non Saline,Neutral
+Tamil Nadu,Tirunelveli,RADHAPURAM,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Tirupathur,NATRAMPALLI,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Tirupathur,KANDILI,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Tirupathur,TIRUPPATTUR,Low,High,High,Low,Non Saline,Neutral
+Tamil Nadu,Tirupathur,JOLARPET,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Tirupathur,ALANGAYAN,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Tirupathur,MADHANUR,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Tiruppur,VELLAKOIL,Low,Medium,High,Low,Non Saline,Alkaline
+Tamil Nadu,Tiruppur,TIRUPPUR,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Tiruppur,UTTUKKULI,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Tiruppur,DHARAPURAM,Low,Medium,High,Low,Non Saline,Alkaline
+Tamil Nadu,Tiruppur,KANGAYAM,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Tiruppur,GUDIMANGALAM,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Tiruppur,AVANASHI,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Tiruppur,KUNDADAM,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Tiruppur,MULANUR,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Tiruppur,MADATHUKULAM,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Tiruppur,PONGALUR,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Tiruppur,PALLADAM,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Tiruppur,UDUMALPET,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Tiruvannamalai,WEST ARANI,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Tiruvannamalai,ARANI,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Tiruvannamalai,POLUR,Low,High,Low,Low,Non Saline,Neutral
+Tamil Nadu,Tiruvannamalai,THANDRAMPET,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Tiruvannamalai,PUDUPALAYAM,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Tiruvannamalai,JAWATHU HILLS,Low,High,Low,Low,Non Saline,Neutral
+Tamil Nadu,Tiruvannamalai,CHETPUT,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Tiruvannamalai,THURINJAPURAM,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Tiruvannamalai,ANAKKAVUR,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Tiruvannamalai,KEELPENNATHUR,Low,High,Low,Low,Non Saline,Neutral
+Tamil Nadu,Tiruvannamalai,VANDAVASI,Low,Low,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Tiruvannamalai,KALASAPAKKAM,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Tiruvannamalai,CHEYYAR,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Tiruvannamalai,THELLAR,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Tiruvannamalai,VEMBAKKAM,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Tiruvannamalai,TIRUVANNAMALAI,Low,High,Low,Low,Non Saline,Neutral
+Tamil Nadu,Tiruvannamalai,CHENGAM,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Tiruvannamalai,PERNAMALLUR,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Tuticorn,OTTAPIDARAM,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Tuticorn,SRIVAIKUNDAM,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Tuticorn,THOOTHUKKUDI,Low,High,High,Low,Non Saline,Neutral
+Tamil Nadu,Tuticorn,KARUNGULAM,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Tuticorn,KOVILPATTI,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Tuticorn,PUDUR,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Tuticorn,ALWARTHIRUNAGARI,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Tuticorn,TIRUCHENDUR,Low,High,High,Low,Saline,Neutral
+Tamil Nadu,Tuticorn,KAYATHAR,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Tuticorn,VILATHIKULAM,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Tuticorn,UDANGUDI,Low,High,Low,Low,Non Saline,Neutral
+Tamil Nadu,Tuticorn,SATTANKULAM,Low,Medium,Low,Low,Non Saline,Neutral
+Tamil Nadu,Vellore,K.V.KUPPAM,Low,Low,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Vellore,GUDIYATTAM,Low,Low,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Vellore,PERANAMBATTU,Low,Low,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Vellore,VELLORE,Low,Low,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Vellore,KANIYAMBADI,Low,Low,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Vellore,ANAICUT,Low,Low,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Vellore,KATPADI,Low,Low,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Villupuram,MAILAM,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Villupuram,KANAI,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Villupuram,OLAKKUR,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Villupuram,VIKRAVANDI,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Villupuram,MUGAIYUR,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Villupuram,VANUR,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Villupuram,MELMALAYANUR,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Villupuram,MARAKKANAM,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Villupuram,THIRUVENNAINALLUR,Low,Medium,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Villupuram,GINGEE,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Villupuram,VALLAM,Low,High,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Villupuram,KOLIYANUR,Low,Low,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Villupuram,KANDAMANGALAM,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Virudhunagar,VIRUDHUNAGAR,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Virudhunagar,KARIAPATTI,Low,Low,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Virudhunagar,TIRUCHULI,Low,Low,High,Low,Non Saline,Neutral
+Tamil Nadu,Virudhunagar,ARUPPUKOTTAI,Low,Low,High,Low,Non Saline,Neutral
+Tamil Nadu,Virudhunagar,SATTUR,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Virudhunagar,NARIKUDI,Low,Low,Medium,Low,Non Saline,Neutral
+Tamil Nadu,Virudhunagar,VEMBAKOTTAI,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Virudhunagar,SRIVILLIPUTTUR,Low,High,High,Low,Non Saline,Neutral
+Tamil Nadu,Virudhunagar,SIVAKASI,Low,Medium,High,Low,Non Saline,Neutral
+Tamil Nadu,Virudhunagar,RAJAPALAIYAM,Low,High,High,Low,Non Saline,Neutral
+Tamil Nadu,Virudhunagar,WATRAP,Low,High,High,Low,Non Saline,Neutral
