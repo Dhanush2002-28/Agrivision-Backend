@@ -204,7 +204,7 @@ def predict_location(req: LocationRequest):
         # Fuzzy match district within state
         district_choices = df_state['District_norm'].unique().tolist()
         district_match, district_score, _ = process.extractOne(district_in, district_choices, scorer=fuzz.ratio)
-        if district_score < 70:
+        if district_score < 40:
             # Try partial/substring match as fallback
             partial_matches = [d for d in district_choices if district_in in d or d in district_in]
             if partial_matches:
@@ -229,7 +229,7 @@ def predict_location(req: LocationRequest):
             matched_block = chosen_block
         else:
             block_match, block_score, _ = process.extractOne(block_in, block_choices, scorer=fuzz.ratio)
-            if block_score < 60:
+            if block_score < 40:
                 # Try partial/substring match as fallback
                 partial_matches = [b for b in block_choices if block_in and (block_in in b or b in block_in)]
                 if partial_matches:
