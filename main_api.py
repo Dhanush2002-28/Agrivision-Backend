@@ -5,7 +5,7 @@ import os
 # =====================
 # Load location aliases from location_hierarchy.json
 # =====================
-LOCATION_JSON_PATH = os.path.join(os.path.dirname(__file__), '../AgriVision/src/data/location_hierarchy.json')
+LOCATION_JSON_PATH = os.path.join(os.path.dirname(__file__), 'location_hierarchy.json')
 try:
     with open(LOCATION_JSON_PATH, encoding='utf-8') as f:
         location_json = json.load(f)
@@ -45,6 +45,7 @@ origins = [
     "http://localhost:8080",
     "http://localhost:5173",
     "https://agrivision-ai-based-crop-recommender.vercel.app",
+    "https://your-backend-name.onrender.com",  # Add your Render backend URL here
 ]
 
 app.add_middleware(
