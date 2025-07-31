@@ -45,7 +45,7 @@ origins = [
     "http://localhost:8080",
     "http://localhost:5173",
     "https://agrivision-ai-based-crop-recommender.vercel.app",
-    "https://your-backend-name.onrender.com",  # Add your Render backend URL here
+    "https://agrivision-backend.onrender.com",  # Add your Render backend URL here
 ]
 
 app.add_middleware(
